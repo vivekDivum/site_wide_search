@@ -1,0 +1,3927 @@
+{
+  "doc_names": [
+    "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+    "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+    "2.pdf.pdf",
+    "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+    "GPS warrenty.pdf",
+    "example [Iteration 2] - Copy (2).xlsx"
+  ],
+  "products": [
+    {
+      "comments": "",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1681396073613,
+      "displayName": "Consumption test2",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a4bc87757fd6018779d5e4cc000amos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1681412311417,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a9b57c36-9b23-42e0-affa-fe26643ef17f",
+            "businessCategoryName": "Testing"
+          },
+          "uid": "8a80a49b877a218501877a3efabc0000"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "6437c41386b03b2d47839ac7"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "2ba6b2d4-3d0e-31db-84c5-0b675819f97f",
+        "endPointDetails": [
+          {
+            "_id": "8f729f06-4c3d-402f-a89e-2219e055962d",
+            "description": "Successful call",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "Successful",
+            "parameters": [],
+            "path": "/v2/store/inventory",
+            "pathParameter": []
+          },
+          {
+            "_id": "c8718d77-c1a1-4a1a-a637-c50ef31e421e",
+            "description": "",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "Not found",
+            "parameters": [],
+            "path": "/v2/store/invent",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a4bc87757fd6018779d5e4cc000a",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"8sjm2\",\"text\":\"hjkl\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "subcategory": [
+          {
+            "id": "6aee29d6-48b9-4084-8c41-c15b2fd22442",
+            "name": "Logistics & Fleet"
+          }
+        ],
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"9md41\",\"text\":\"io\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a4bc87757fd6018779d5e4cc000a",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "Consumption test2",
+      "productRatingAvgList": [],
+      "productShortDesc": "Consumption test2",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "",
+      "createdBy": "7761466f-5bf7-43af-ae9e-af56cf604ddd",
+      "createdDate": 1681762782067,
+      "displayName": "sellerTest2",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a31b878f169001878fb16bb30006mos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1681765888113,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a9b57c36-9b23-42e0-affa-fe26643ef17f",
+            "businessCategoryName": "Testing"
+          },
+          "uid": "8a80a5c5878f152201878fb388970002"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "643d5c875a34c57baf31a0e0"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "20a2d519-c01d-3ec9-b623-b545dd09eac3",
+        "endPointDetails": [
+          {
+            "_id": "ea49a0a6-d089-417e-af72-76892f440bc6",
+            "description": "",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "test",
+            "parameters": [],
+            "path": "/",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a31b878f169001878fb16bb30006",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"ehb7h\",\"text\":\"sellerTest long description\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "subcategory": [
+          {
+            "id": "6aee29d6-48b9-4084-8c41-c15b2fd22442",
+            "name": "Logistics & Fleet"
+          }
+        ],
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"6u7hq\",\"text\":\"seller tc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a31b878f169001878fb16bb30006",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "sellerTest2",
+      "productRatingAvgList": [],
+      "productShortDesc": "sellerTest description",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "",
+      "createdBy": "7761466f-5bf7-43af-ae9e-af56cf604ddd",
+      "createdDate": 1681766712343,
+      "displayName": "subscribe test",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a309878f17b001878fed64570002mos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1681767441037,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a9b57c36-9b23-42e0-affa-fe26643ef17f",
+            "businessCategoryName": "Testing"
+          },
+          "uid": "8a80a6b3878f154b01878fef67b20006"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "643d6be42c656956faf501ba"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "9fffebb7-9ddf-3456-a625-77fd7febcf55",
+        "endPointDetails": [
+          {
+            "_id": "9cda7e62-d2ff-4cc5-b6bf-f03eb4dc7bfa",
+            "description": "",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "Test1",
+            "parameters": [],
+            "path": "/",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a309878f17b001878fed64570002",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"b6hrl\",\"text\":\"sdfghjkldfghj\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "subcategory": [
+          {
+            "id": "6aee29d6-48b9-4084-8c41-c15b2fd22442",
+            "name": "Logistics & Fleet"
+          }
+        ],
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"6ch2o\",\"text\":\"Terms and Condition\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a309878f17b001878fed64570002",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "subscribe test",
+      "productRatingAvgList": [],
+      "productShortDesc": "asdfghjklasdfghjk",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "",
+      "createdBy": "7761466f-5bf7-43af-ae9e-af56cf604ddd",
+      "createdDate": 1681917249123,
+      "displayName": "sellerBuyerTest2",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a361879824c8018798e666a20006mos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1681917945187,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a9b57c36-9b23-42e0-affa-fe26643ef17f",
+            "businessCategoryName": "Testing"
+          },
+          "uid": "8a80a3f387982239018798e7b28e000d"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "643fb7ea4723d750842e0356"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "4b6d80d4-2537-35b9-b519-e18e4eef8de7",
+        "endPointDetails": [
+          {
+            "_id": "595cb06f-47bb-4c2b-b266-df5e211996ad",
+            "description": "",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "test",
+            "parameters": [],
+            "path": "/",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a361879824c8018798e666a20006",
+        "productLongDesc": "",
+        "subcategory": [
+          {
+            "id": "6aee29d6-48b9-4084-8c41-c15b2fd22442",
+            "name": "Logistics & Fleet"
+          }
+        ],
+        "termsAndConditions": ""
+      },
+      "productId": "8a80a361879824c8018798e666a20006",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "sellerBuyerTest2",
+      "productRatingAvgList": [],
+      "productShortDesc": "sellerBuyer Desc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "",
+      "createdBy": "3ca43f45-2eb2-4758-8ad4-3ca080f82ffd",
+      "createdDate": 1681925767400,
+      "displayName": "Users Testing",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a5cd879823600187996861280005mos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1681930095043,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a9b57c36-9b23-42e0-affa-fe26643ef17f",
+            "businessCategoryName": "Testing"
+          },
+          "uid": "8a80a361879824c8018799a8393e0022"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "643fd930489cd205ec0c30cd"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "40dc3a67-003f-3181-8dbf-52e3ad6782b6",
+        "endPointDetails": [
+          {
+            "_id": "db8ab351-0b62-4e41-b80d-374ae92a29d0",
+            "description": "",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "Endpoint",
+            "parameters": [],
+            "path": "/",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a5cd879823600187996861280005",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"b9m19\",\"text\":\"asdfghjk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "subcategory": [
+          {
+            "id": "6aee29d6-48b9-4084-8c41-c15b2fd22442",
+            "name": "Logistics & Fleet"
+          }
+        ],
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"fqk7n\",\"text\":\"asdfghjk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a5cd879823600187996861280005",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "Users Testing",
+      "productRatingAvgList": [],
+      "productShortDesc": "asdfghjklsdfgh",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "",
+      "createdBy": "56d40b53-2e68-47cb-84f8-079014ef50e0",
+      "createdDate": 1675071999930,
+      "displayName": "a",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a35c85f32e8b018600e42ff9000dmos",
+      "isActive": true,
+      "lastModifiedBy": "MSS_SYSTEM",
+      "lastModifiedDate": 1675245109387,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "3fdb3c61-fbc3-44cc-a266-a08d57557fb7",
+            "businessCategoryName": "Artificial Intelligence (AI)"
+          },
+          "uid": "8a80a2038608104f01860b33e60e0004"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+        "displayName": "API's",
+        "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+        "productCategoryName": "API"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63d744aa33e309153ea35e07"
+        },
+        "accessControls": {
+          "authDetails": {
+            "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+          }
+        },
+        "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+        "authorizationKey": "a942c871-f4d8-3ee8-8d86-db4ff4cf92a3",
+        "endPointDetails": [
+          {
+            "_id": "ecb93950-eeb6-4f7e-9572-bbb5631e4e59",
+            "description": "s",
+            "group": [],
+            "headers": [],
+            "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+            "name": "s",
+            "parameters": [],
+            "path": "/d",
+            "pathParameter": []
+          }
+        ],
+        "productId": "8a80a35c85f32e8b018600e42ff9000d",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"74v2j\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": ""
+      },
+      "productId": "8a80a35c85f32e8b018600e42ff9000d",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "a",
+      "productRatingAvgList": [],
+      "productShortDesc": "suu",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "transmitter",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680200850903,
+      "displayName": "TEST",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a4f5873295b7018732983e180000mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680211909660,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "6425873b486fa73472373514"
+        },
+        "approvedDate": 1680192025693,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "transmitter",
+        "companyId": "8a80a6348775efa7018775f10f8e0000",
+        "companyNo": "8a80a6348775efa7018775f10f8e0000",
+        "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "createdDate": 1680181050903,
+        "displayName": "TEST",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "lastModifiedDate": 1680192109660,
+        "productBusinessCategoryMap": [],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "6425873b486fa73472373514"
+          },
+          "productId": "8a80a4f5873295b7018732983e180000",
+          "productLongDesc": "TESTP2",
+          "termsAndConditions": "TESTP2"
+        },
+        "productId": "8a80a4f5873295b7018732983e180000",
+        "productLanguage": "en",
+        "productLongDesc": "TESTP2",
+        "productName": "TESTSOL22",
+        "productRatingAvgList": [],
+        "productShortDesc": "TESTP2",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a019873337c80187333ce95b0000",
+            "statusId": "6a8f9734-cace-4469-a8d5-342d2b8c9ba9",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "8a8280397c1199e8017c129624070001",
+        "publishedDate": 1680192109660,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "TESTP2"
+      },
+      "productId": "8a80a4f5873295b7018732983e180000",
+      "productLanguage": null,
+      "productLongDesc": "TESTP2",
+      "productName": "TESTSOL22",
+      "productRatingAvgList": [],
+      "productShortDesc": "TESTP2",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "TESTP2"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680261159367,
+      "displayName": "TEST",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a41c87335c0d018736307a050032mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680261387137,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "642672cf1e059572dfe134fe"
+        },
+        "approvedDate": 1680241538053,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "Published",
+        "companyId": "8a80a6348775efa7018775f10f8e0000",
+        "companyNo": "8a80a6348775efa7018775f10f8e0000",
+        "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "createdDate": 1680241359367,
+        "displayName": "TEST",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "lastModifiedDate": 1680241587137,
+        "productBusinessCategoryMap": [],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "642672cf1e059572dfe134fe"
+          },
+          "productId": "8a80a41c87335c0d018736307a050032",
+          "productLongDesc": "TESTP2",
+          "termsAndConditions": "TESTP2"
+        },
+        "productId": "8a80a41c87335c0d018736307a050032",
+        "productLanguage": "en",
+        "productLongDesc": "TESTP2",
+        "productName": "TESTSOL28",
+        "productRatingAvgList": [],
+        "productShortDesc": "TESTP2",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a019873337c801873633e9980001",
+            "statusId": "6a8f9734-cace-4469-a8d5-342d2b8c9ba9",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "8a8280397c1199e8017c129624070001",
+        "publishedDate": 1680241587137,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "TESTP2"
+      },
+      "productId": "8a80a41c87335c0d018736307a050032",
+      "productLanguage": null,
+      "productLongDesc": "TESTP2",
+      "productName": "TESTSOL28",
+      "productRatingAvgList": [],
+      "productShortDesc": "TESTP2",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "TESTP2"
+    },
+    {
+      "comments": "panel",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680538486140,
+      "displayName": "TEST",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a1cf874650af018746b825bc0003mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680539294210,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "642aae1eef832846beaa914e"
+        },
+        "approvedDate": 1680519478370,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "panel",
+        "companyId": "8a80a6348775efa7018775f10f8e0000",
+        "companyNo": "8a80a6348775efa7018775f10f8e0000",
+        "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "createdDate": 1680518686140,
+        "displayName": "TEST",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+        "lastModifiedDate": 1680519494210,
+        "productBusinessCategoryMap": [],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "642aae1eef832846beaa914e"
+          },
+          "productId": "8a80a1cf874650af018746b825bc0003",
+          "productLongDesc": "TESTP2",
+          "termsAndConditions": "TESTP2"
+        },
+        "productId": "8a80a1cf874650af018746b825bc0003",
+        "productLanguage": "en",
+        "productLongDesc": "TESTP2",
+        "productName": "TESTSOL30",
+        "productRatingAvgList": [],
+        "productShortDesc": "TESTP2",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a019873337c8018746bb61560005",
+            "statusId": "6a8f9734-cace-4469-a8d5-342d2b8c9ba9",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "8a8280397c1199e8017c129624070001",
+        "publishedDate": 1680519494210,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "TESTP2"
+      },
+      "productId": "8a80a1cf874650af018746b825bc0003",
+      "productLanguage": null,
+      "productLongDesc": "TESTP2",
+      "productName": "TESTSOL30",
+      "productRatingAvgList": [],
+      "productShortDesc": "TESTP2",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "TESTP2"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1676065660203,
+      "displayName": "Testing BSTP DE EUR",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a3d5863bd6f301863c1e3d6e0045mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1676065750153,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a3d5863bd6f301863c1e3d790046"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e66e316c790606606cfef8"
+        },
+        "approvedDate": 1676045942977,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "Published",
+        "companyId": "4082804379f0f29e0179f9c032690001",
+        "companyNo": "4082804379f0f29e0179f9c032690001",
+        "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "createdDate": 1676045860203,
+        "displayName": "Testing BSTP DE EUR",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "lastModifiedDate": 1676045950153,
+        "productBusinessCategoryMap": [
+          {
+            "businessCategory": {
+              "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+              "businessCategoryName": "Data",
+              "createdBy": "MS TEAM",
+              "createdDate": 1588836174380,
+              "description": "Data like Currency exchange, Phone, Rent Estimation",
+              "isActive": false,
+              "isLanguageIndependent": null,
+              "isoCode": null,
+              "lastModifiedBy": "MS SUPPORT TEAM",
+              "lastModifiedDate": 1588836174380
+            },
+            "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "createdDate": 1676045860217,
+            "isActive": true,
+            "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "lastModifiedDate": 1676045860217,
+            "uid": "8a80a3d5863bd6f301863c1e3d790046"
+          }
+        ],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "63e66e316c790606606cfef8"
+          },
+          "countryOfOrigin": "IN",
+          "countryOfUsage": ["DE"],
+          "faq": [
+            {
+              "_id": "1b81090f-517f-4172-9e24-b26d6a28c373",
+              "answer": "Labour hours spent on tracking activity due to non-value-added activities \u2192 Up to 70% reduction in labour hoursCustomer churn and low margins from lack of proactive communication on delivery problems \u2192 Up to1% increase in sales Disputes on carrier accessorials due to lack of historical performance data \u2192 Up to1% reduction in freight tariffs Penalties and dispute costs from lack of time-stamped delivery data \u2192 Up to 30% decrease in waiting time penalties from carriers Reducing labour time wasted at delivery sites \u2192 Up to 20% reduction of labour hours Fresh inventory turnover improvement \u2192 Up to 2% increase in turnover High demurrage costs for maritime container shipments \u2192 Up to 30% reduction in demurrage costsHigh customer service costs from delivery inquiries \u2192 Up to 40% reduction of labour hours ",
+              "id": 1,
+              "order": 1,
+              "question": "Which pain points can Shippeo\u2019s solution typically help resolve?"
+            }
+          ],
+          "highlights": [
+            {
+              "_id": "ac28c7f6-e355-4e57-bc00-b034d0ecdc2e",
+              "description": "Shippeo connects to supply chain software in use by shippers and carriers (e.g. transport management systems, warehouse management systems, yard management systems, ERP\u2019s, etc), to telematics devices fitted on the vehicles and optionally to a mobile application used by the driver. The required data is aggregated, sanitized, displayed live on the platform and made available as analytics. In addition, Shippeo uses AI to compute ETA\u2019s (estimated time of arrival) recognized as the most reliable on the market\u00a0\u00a0",
+              "header": "Optimizing individual cost-functions",
+              "multimediaLink": "image URL",
+              "multimediaType": "image",
+              "number": 1,
+              "order": 1
+            }
+          ],
+          "productId": "8a80a3d5863bd6f301863c1e3d6e0045",
+          "productLongDesc": "BSTP is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management.",
+          "tags": [
+            {
+              "_id": "54f03863-3c23-45b7-a1e8-166149938c85",
+              "key": "Asset",
+              "value": ["Truck"]
+            },
+            {
+              "_id": "09dacb70-01c5-4c1e-91c9-e1fe78604fc4",
+              "key": "Driver",
+              "value": ["Albert"]
+            }
+          ],
+          "termsAndConditions": "Test",
+          "url": "URL"
+        },
+        "productId": "8a80a3d5863bd6f301863c1e3d6e0045",
+        "productLanguage": "en",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productName": "Testing BSTP DE EUR",
+        "productRatingAvgList": [],
+        "productShortDesc": "Secure Bosch transport parking Data",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a08c863bd87d01863c1f9d060043",
+            "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "4082804379f0f29e0179f9c032690001",
+        "publishedDate": 1676045950153,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+      },
+      "productId": "8a80a3d5863bd6f301863c1e3d6e0045",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Testing BSTP DE EUR",
+      "productRatingAvgList": [],
+      "productShortDesc": "Secure Bosch transport parking Data",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1676066011127,
+      "displayName": "Testing BSTP IN EUR",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a08c863bd87d01863c2398380048mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1676066109757,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a08c863bd87d01863c2398400049"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e66f8f5913901927a82615"
+        },
+        "approvedDate": 1676046302837,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "Published",
+        "companyId": "4082804379f0f29e0179f9c032690001",
+        "companyNo": "4082804379f0f29e0179f9c032690001",
+        "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "createdDate": 1676046211127,
+        "displayName": "Testing BSTP IN EUR",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "lastModifiedDate": 1676046309757,
+        "productBusinessCategoryMap": [
+          {
+            "businessCategory": {
+              "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+              "businessCategoryName": "Data",
+              "createdBy": "MS TEAM",
+              "createdDate": 1588836174380,
+              "description": "Data like Currency exchange, Phone, Rent Estimation",
+              "isActive": false,
+              "isLanguageIndependent": null,
+              "isoCode": null,
+              "lastModifiedBy": "MS SUPPORT TEAM",
+              "lastModifiedDate": 1588836174380
+            },
+            "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "createdDate": 1676046211137,
+            "isActive": true,
+            "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "lastModifiedDate": 1676046211137,
+            "uid": "8a80a08c863bd87d01863c2398400049"
+          }
+        ],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "63e66f8f5913901927a82615"
+          },
+          "countryOfOrigin": "IN",
+          "countryOfUsage": ["IN"],
+          "faq": [
+            {
+              "_id": "6c4c74de-b60b-46b8-a1b4-05a1dde04cd1",
+              "answer": "Labour hours spent on tracking activity due to non-value-added activities \u2192 Up to 70% reduction in labour hoursCustomer churn and low margins from lack of proactive communication on delivery problems \u2192 Up to1% increase in sales Disputes on carrier accessorials due to lack of historical performance data \u2192 Up to1% reduction in freight tariffs Penalties and dispute costs from lack of time-stamped delivery data \u2192 Up to 30% decrease in waiting time penalties from carriers Reducing labour time wasted at delivery sites \u2192 Up to 20% reduction of labour hours Fresh inventory turnover improvement \u2192 Up to 2% increase in turnover High demurrage costs for maritime container shipments \u2192 Up to 30% reduction in demurrage costsHigh customer service costs from delivery inquiries \u2192 Up to 40% reduction of labour hours ",
+              "id": 1,
+              "order": 1,
+              "question": "Which pain points can Shippeo\u2019s solution typically help resolve?"
+            }
+          ],
+          "highlights": [
+            {
+              "_id": "ec107a7c-37cd-4ef5-b3d0-0157a658f264",
+              "description": "Shippeo connects to supply chain software in use by shippers and carriers (e.g. transport management systems, warehouse management systems, yard management systems, ERP\u2019s, etc), to telematics devices fitted on the vehicles and optionally to a mobile application used by the driver. The required data is aggregated, sanitized, displayed live on the platform and made available as analytics. In addition, Shippeo uses AI to compute ETA\u2019s (estimated time of arrival) recognized as the most reliable on the market\u00a0\u00a0",
+              "header": "Optimizing individual cost-functions",
+              "multimediaLink": "image URL",
+              "multimediaType": "image",
+              "number": 1,
+              "order": 1
+            }
+          ],
+          "productId": "8a80a08c863bd87d01863c2398380048",
+          "productLongDesc": "BSTP is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management.",
+          "tags": [
+            {
+              "_id": "d2856fe9-7c75-4a60-83c7-a3488fd8c2d3",
+              "key": "Asset",
+              "value": ["Truck"]
+            },
+            {
+              "_id": "56af2a97-d571-4b43-b564-5d3f0ad1e72d",
+              "key": "Driver",
+              "value": ["Albert"]
+            }
+          ],
+          "termsAndConditions": "Test",
+          "url": "URL"
+        },
+        "productId": "8a80a08c863bd87d01863c2398380048",
+        "productLanguage": "en",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productName": "Testing BSTP IN EUR",
+        "productRatingAvgList": [],
+        "productShortDesc": "Secure Bosch transport parking Data",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a08c863bd87d01863c2519d7004b",
+            "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "4082804379f0f29e0179f9c032690001",
+        "publishedDate": 1676046309757,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+      },
+      "productId": "8a80a08c863bd87d01863c2398380048",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Testing BSTP IN EUR",
+      "productRatingAvgList": [],
+      "productShortDesc": "Secure Bosch transport parking Data",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675946289777,
+      "displayName": "Plan Invoice",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a2ae86332fd201863500caaf0005mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675946392483,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a2ae86332fd201863500cab20006"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "displayName": "Solutions",
+        "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+        "productCategoryName": "Solutions"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e49be8ca426427701eb174"
+        },
+        "approvedDate": 1675926587647,
+        "buyerViewable": false,
+        "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+        "comments": "Published",
+        "companyId": "4082804379f0f29e0179f9c032690001",
+        "companyNo": "4082804379f0f29e0179f9c032690001",
+        "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "createdDate": 1675926489777,
+        "displayName": "Plan Invoice",
+        "docTypeToDocMetaInfoListMap": {},
+        "isActive": true,
+        "isBuyerViewable": true,
+        "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+        "lastModifiedDate": 1675926592483,
+        "productBusinessCategoryMap": [
+          {
+            "businessCategory": {
+              "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+              "businessCategoryName": "Data",
+              "createdBy": "MS TEAM",
+              "createdDate": 1588836174380,
+              "description": "Data like Currency exchange, Phone, Rent Estimation",
+              "isActive": false,
+              "isLanguageIndependent": null,
+              "isoCode": null,
+              "lastModifiedBy": "MS SUPPORT TEAM",
+              "lastModifiedDate": 1588836174380
+            },
+            "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "createdDate": 1675926489777,
+            "isActive": true,
+            "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+            "lastModifiedDate": 1675926489777,
+            "uid": "8a80a2ae86332fd201863500cab20006"
+          }
+        ],
+        "productCategory": {
+          "categoryId": "6d0ecf14-258f-4096-98c2-791e9e622f82",
+          "createdBy": "MS TEAM",
+          "createdDate": 1657155145693,
+          "description": "Solutions",
+          "displayName": "Solutions",
+          "isActive": true,
+          "lastModifiedBy": "MS SUPPORT TEAM",
+          "lastModifiedDate": 1657155145693,
+          "mongoCollectionName": "solutions_collection",
+          "nodeType": "N",
+          "parentProductCategoryId": "85566827-40db-4955-94cb-028e29567520",
+          "productCategoryName": "Solutions",
+          "productCategoryRatingFactorMap": []
+        },
+        "productDetailedInfo": {
+          "_id": {
+            "$oid": "63e49be8ca426427701eb174"
+          },
+          "countryOfOrigin": "IN",
+          "countryOfUsage": ["IN"],
+          "faq": [
+            {
+              "_id": "455b0032-e37e-48ba-9b84-f0aec53859a8",
+              "answer": "Labour hours spent on tracking activity due to non-value-added activities \u2192 Up to 70% reduction in labour hoursCustomer churn and low margins from lack of proactive communication on delivery problems \u2192 Up to1% increase in sales Disputes on carrier accessorials due to lack of historical performance data \u2192 Up to1% reduction in freight tariffs Penalties and dispute costs from lack of time-stamped delivery data \u2192 Up to 30% decrease in waiting time penalties from carriers Reducing labour time wasted at delivery sites \u2192 Up to 20% reduction of labour hours Fresh inventory turnover improvement \u2192 Up to 2% increase in turnover High demurrage costs for maritime container shipments \u2192 Up to 30% reduction in demurrage costsHigh customer service costs from delivery inquiries \u2192 Up to 40% reduction of labour hours ",
+              "id": 1,
+              "order": 1,
+              "question": "Which pain points can Shippeo\u2019s solution typically help resolve?"
+            }
+          ],
+          "highlights": [
+            {
+              "_id": "d0b06bb1-ab85-4a48-b7f6-d8e4a0386e40",
+              "description": "Shippeo connects to supply chain software in use by shippers and carriers (e.g. transport management systems, warehouse management systems, yard management systems, ERP\u2019s, etc), to telematics devices fitted on the vehicles and optionally to a mobile application used by the driver. The required data is aggregated, sanitized, displayed live on the platform and made available as analytics. In addition, Shippeo uses AI to compute ETA\u2019s (estimated time of arrival) recognized as the most reliable on the market\u00a0\u00a0",
+              "header": "Optimizing individual cost-functions",
+              "multimediaLink": "image URL",
+              "multimediaType": "image",
+              "number": 1,
+              "order": 1
+            }
+          ],
+          "productId": "8a80a2ae86332fd201863500caaf0005",
+          "productLongDesc": "BSTP is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management solution that helps commercial fleet owners to increase efficiency and productivity through better vehicle monitoring and improved cost-saving preventive maintenance.TrakZeus is a comprehensive and connected fleet management.",
+          "tags": [
+            {
+              "_id": "d640e35c-af96-44ef-9d8e-898257d41f9f",
+              "key": "Asset",
+              "value": ["Truck"]
+            },
+            {
+              "_id": "a05d0836-845f-44c0-98a6-f3e5ca1d4e45",
+              "key": "Driver",
+              "value": ["Albert"]
+            }
+          ],
+          "termsAndConditions": "Test",
+          "url": "URL"
+        },
+        "productId": "8a80a2ae86332fd201863500caaf0005",
+        "productLanguage": "en",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productName": "Plan Invoice",
+        "productRatingAvgList": [],
+        "productShortDesc": "Secure Bosch transport parking Data",
+        "productTenantMap": [
+          {
+            "productTenantMappingId": "8a80a0b186333271018635025c730002",
+            "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+            "tenantId": "mos"
+          }
+        ],
+        "provider": "408280a47b0aa4fc017b1670fa21009a",
+        "publishedDate": 1675926592483,
+        "status": {
+          "createdBy": "MS TEAM",
+          "createdDate": 1588836174403,
+          "description": "PUBLISHED",
+          "isActive": true,
+          "lastModifiedBy": "MSS_SYSTEM",
+          "lastModifiedDate": 1671533803270,
+          "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782"
+        },
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "tenantId": ["mos"],
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+      },
+      "productId": "8a80a2ae86332fd201863500caaf0005",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Plan Invoice",
+      "productRatingAvgList": [],
+      "productShortDesc": "Secure Bosch transport parking Data",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1677507743953,
+      "displayName": "AR113",
+      "docTypeToDocMetaInfoListMap": {
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a00a8692053601869212b1120006/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/hdmi 1.jpg",
+            "documentName": "hdmi 1.jpg",
+            "documentSize": 6205
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a00a8692053601869212b1120006/87389ac9-3c7d-4b99-965b-aa2a224bea7f/hdmi 1.jpg",
+            "documentName": "hdmi 1.jpg",
+            "documentSize": 6205
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a00a8692053601869212b1120006/ef69bdde-b513-4831-a74c-686a1c0ef605/hdmi 1.jpg",
+            "documentName": "hdmi 1.jpg",
+            "documentSize": 6205
+          }
+        ]
+      },
+      "id": "8a80a00a8692053601869212b1120006mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1677508053457,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a00a869205360186921645d5000f"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63fc6f49664de432e453663d"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "0594886a-bd54-415c-a2d7-30eb99735933",
+                "description": "desc",
+                "title": "Titel "
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "5f48f894-85f4-46f4-ae25-51ab5ace310e",
+                "answer": "verv",
+                "question": "efer"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 23,
+            "gracePeriodForReturn": "12",
+            "height": "32",
+            "inputVoltage": "32",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Test",
+            "length": "32",
+            "manufacturerName": "Test",
+            "material": "Test",
+            "modelName": "Test",
+            "modelYear": 1233,
+            "netWeight": "23",
+            "outputVoltage": "32",
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "quantity": "4",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "technicalSpecification": "Test",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            },
+            "width": "23"
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "a43dee30-446d-4a0b-9157-66e426b99eb0",
+                "description": "descrip",
+                "title": "Title "
+              },
+              {
+                "_id": "8ae4eafb-b6be-49f3-9a34-f287b6423db0",
+                "description": "descr",
+                "title": "title 1"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a00a8692053601869212b1120006",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"dk2fh\",\"text\":\"Long desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"tg6f\",\"text\":\"terms and conditions\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a00a8692053601869212b1120006",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"dk2fh\",\"text\":\"Long desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "AR113",
+      "productRatingAvgList": [],
+      "productShortDesc": "short desc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"tg6f\",\"text\":\"terms and conditions\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1677508227207,
+      "displayName": "MSI PRO Z790-P",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/21ce40d2-c11e-4561-af70-f7f03d9f6901/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/614ff7e1-f0ca-4a28-af13-9622410067f4/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/MSI Motherboard 1.jpg",
+            "documentName": "MSI Motherboard 1.jpg",
+            "documentSize": 284521
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/87389ac9-3c7d-4b99-965b-aa2a224bea7f/MSI Motherboard 1.jpg",
+            "documentName": "MSI Motherboard 1.jpg",
+            "documentSize": 284521
+          }
+        ],
+        "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/d5e6c74b-8246-4cbb-9401-aeae8c98760b/Corsair Vengence Ram.mp4",
+            "documentName": "Corsair Vengence Ram.mp4",
+            "documentSize": 14954347
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a18e869206960186921a10c8000c/ef69bdde-b513-4831-a74c-686a1c0ef605/MSI Motherboard 1.jpg",
+            "documentName": "MSI Motherboard 1.jpg",
+            "documentSize": 284521
+          }
+        ]
+      },
+      "id": "8a80a18e869206960186921a10c8000cmos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1677508946327,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+            "businessCategoryName": "Mobility Tech"
+          },
+          "uid": "8a80a43c869203fa0186921fca30000e"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+            "businessCategoryName": "Automotive Aftermarket"
+          },
+          "uid": "8a80a43c869203fa0186921fca32000f"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63fc712ccb37a867b1790e07"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "b969c287-37e1-4ef4-8b27-00abe52d2a19",
+                "description": "Motherboard",
+                "title": "MSI "
+              },
+              {
+                "_id": "e3a30b6c-19b6-4ab8-a187-a5fd6a789c2d",
+                "description": "DDR4",
+                "title": "Memory Type"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "9f559df4-4c25-43ee-ab7a-5166e0129790",
+                "answer": "12TH & 13TH GEN CORE processors",
+                "question": "Supported cpu?"
+              },
+              {
+                "_id": "b7efdebd-c391-4b7a-9d63-b174ff6743ff",
+                "answer": "Intel Z790 chipset (12th & 13th Gen Intel Core supported, LGA 1700)",
+                "question": "Chipset"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "f497f48f-0355-4bf6-9554-692b57613f9c",
+              "value": "India"
+            },
+            "gracePeriodForReplacement": 10,
+            "gracePeriodForReturn": "7",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": " Business Elegance Designed for efficient and stable performance",
+            "manufacturerName": "MSI",
+            "material": "Silicon",
+            "modelName": "MSI PRO Z790-P",
+            "modelYear": 2022,
+            "productUrl": "https://www.amazon.in/MSI-Z790-P-WiFi-DDR4-Motherboard/dp/B0BDS88V4V/ref=pd_bxgy_img_sccl_1/259-8254746-2578214?pd_rd_w=O8cR1&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=DQQVE676Z1YE9R06Q9ZR&pd_rd_wg=0CX1E&pd_rd_r=68c18468-24a4-4a18-a3b8-e916b92cc5b8&pd_rd_i=B0BDS88V4V&psc=1",
+            "quantity": "1",
+            "relatedLink": "https://www.amazon.in/MSI-Z790-P-WiFi-DDR4-Motherboard/dp/B0BDS88V4V/ref=pd_bxgy_img_sccl_1/259-8254746-2578214?pd_rd_w=O8cR1&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=DQQVE676Z1YE9R06Q9ZR&pd_rd_wg=0CX1E&pd_rd_r=68c18468-24a4-4a18-a3b8-e916b92cc5b8&pd_rd_i=B0BDS88V4V&psc=1",
+            "technicalSpecification": "Intel Z790 chipset ",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "470bd33e-6551-42b1-b2f6-e984cddc2e50",
+                "description": "Motherboard",
+                "title": "MSI "
+              }
+            ]
+          }
+        },
+        "productId": "8a80a18e869206960186921a10c8000c",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"c66n5\",\"text\":\"12TH & 13TH GEN CORE, HIGH PERFORMANCE\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"4hbos\",\"text\":\"INTEGRATED COOLING VRM cooling features 7W/mK MOSFET thermal pads and an extended heatsink\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a18e869206960186921a10c8000c",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"c66n5\",\"text\":\"12TH & 13TH GEN CORE, HIGH PERFORMANCE\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "MSI PRO Z790-P",
+      "productRatingAvgList": [],
+      "productShortDesc": "WiFi DDR4 Motherboard, ATX - Supports Intel 12th & 13th Gen Core Processors, LGA 1700-55A DrMOS, DDR4 Memory Boost 5333+MHz/OC, PCIe 5.0 & 4.0 x16, 4 x M.2 Gen4, Wi-Fi 6E, 2.5G LAN",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"4hbos\",\"text\":\"INTEGRATED COOLING VRM cooling features 7W/mK MOSFET thermal pads and an extended heatsink\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1677509216067,
+      "displayName": "iphone",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/21ce40d2-c11e-4561-af70-f7f03d9f6901/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/614ff7e1-f0ca-4a28-af13-9622410067f4/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/153-1538533_tree-with-transparent-background-clipart-100kb-hd-png.png",
+            "documentName": "153-1538533_tree-with-transparent-background-clipart-100kb-hd-png.png",
+            "documentSize": 121489
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/87389ac9-3c7d-4b99-965b-aa2a224bea7f/11.png",
+            "documentName": "11.png",
+            "documentSize": 459411
+          }
+        ],
+        "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/d5e6c74b-8246-4cbb-9401-aeae8c98760b/Bosch Mobility Marketplace _ Scale Your Mobility Business - Google Chrome 2023-02-27 12-27-54.mp4",
+            "documentName": "Bosch Mobility Marketplace _ Scale Your Mobility Business - Google Chrome 2023-02-27 12-27-54.mp4",
+            "documentSize": 15354058
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922927810019/ef69bdde-b513-4831-a74c-686a1c0ef605/11.png",
+            "documentName": "11.png",
+            "documentSize": 459411
+          }
+        ]
+      },
+      "id": "8a80a43c869203fa0186922927810019mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1677509733773,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a00a869205360186922ded660029"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63fc7509cb37a867b1790e0b"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "641ad475-4bbf-4ea4-8c27-8bf8cd3ac320",
+                "description": "Text1",
+                "title": "Text"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "1d5617fa-66d8-48ca-9a90-aef02318ffad",
+                "answer": "Text1",
+                "question": "Text"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "compatibility": "Text",
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 23,
+            "gracePeriodForReturn": "12",
+            "installationType": {
+              "key": "f2581b87-0339-42f0-9404-04d034b2563a",
+              "value": "Agent"
+            },
+            "keyFeatures": "Text",
+            "manufacturerName": "Text",
+            "material": "Text",
+            "modelName": "Text",
+            "modelYear": 2321,
+            "productCapacity": "Text",
+            "productType": "Text",
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "quantity": "5",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "technicalSpecification": "Text",
+            "warranty": {
+              "key": "0896ee7c-9dcf-4d9a-b462-22904ed7783c",
+              "value": "2 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "349b74ce-cf0f-43e9-aead-c25a7b8cca3d",
+                "description": "Text sdwsdws",
+                "title": "Text"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a43c869203fa0186922927810019",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"6knte\",\"text\":\"Long desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"8bst8\",\"text\":\"terms and conditions\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a43c869203fa0186922927810019",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"6knte\",\"text\":\"Long desc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"eof30\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"4k3q0\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7vdo2\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"er3nk\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "iphone",
+      "productRatingAvgList": [],
+      "productShortDesc": "short dedsc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"8bst8\",\"text\":\"terms and conditions\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"54e2o\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"9p8p4\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"dikjf\",\"text\":\"WIFI DDR4 motherboard includes premium GPU support w\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved ....",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1677331744667,
+      "displayName": "LG Smart LED TV",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/1.xls",
+            "documentName": "1.xls",
+            "documentSize": 53141
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/21ce40d2-c11e-4561-af70-f7f03d9f6901/1.xls",
+            "documentName": "1.xls",
+            "documentSize": 53141
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/21ce40d2-c11e-4561-af70-f7f03d9f6901/2.pdf.pdf",
+            "documentName": "2.pdf.pdf",
+            "documentSize": 65742
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/614ff7e1-f0ca-4a28-af13-9622410067f4/2.pdf.pdf",
+            "documentName": "2.pdf.pdf",
+            "documentSize": 65742
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/224.jpg",
+            "documentName": "224.jpg",
+            "documentSize": 16138
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/23.jpg",
+            "documentName": "23.jpg",
+            "documentSize": 21967
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/87389ac9-3c7d-4b99-965b-aa2a224bea7f/22.jpg",
+            "documentName": "22.jpg",
+            "documentSize": 38252
+          }
+        ],
+        "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/d5e6c74b-8246-4cbb-9401-aeae8c98760b/Search _ Bosch Mobility Marketplace - Google Chrome 2023-02-25 13-19-33.mp4",
+            "documentName": "Search _ Bosch Mobility Marketplace - Google Chrome 2023-02-25 13-19-33.mp4",
+            "documentSize": 9218777
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/d5e6c74b-8246-4cbb-9401-aeae8c98760b/Search _ Bosch Mobility Marketplace - Google Chrome 2023-02-25 13-19-58.mp4",
+            "documentName": "Search _ Bosch Mobility Marketplace - Google Chrome 2023-02-25 13-19-58.mp4",
+            "documentSize": 11739922
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0198684d13f0186879527dd009a/ef69bdde-b513-4831-a74c-686a1c0ef605/224.jpg",
+            "documentName": "224.jpg",
+            "documentSize": 16138
+          }
+        ]
+      },
+      "id": "8a80a0198684d13f0186879527dd009amos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1677339288487,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a2308684d16b0186879d71dc00ad"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "4d1e6fe4-f920-465c-b1dc-564000301e02",
+            "businessCategoryName": "Mobility as a service"
+          },
+          "uid": "8a80a2308684d16b0186879d71de00ae"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+            "businessCategoryName": "Mobility Tech"
+          },
+          "uid": "8a80a2308684d16b0186879d71e100af"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f9bfc919a3f636871596b1"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "a2988928-47ee-4fe1-8005-8b9b181d78e5",
+                "description": "Smart TV Features: \u03b15 Gen 5 AI Processor | Web OS Operating System | Wi-Fi | Magic Remote | Full Web Browser | Screen Share | Game Optimizer | Built-in Alexa | Google Assistant | AI Functions | Works with Apple AirPlay & Homekit | HDR 10 Pro | 8 GB Storage | Supported Apps: Prime Video, Netflix, Disney+ Hotstar, Sony Liv, Zee5, Apple TV and more\nDisplay: LED Panel | HD Ready Digital Video Format | Slim & Stylish Design",
+                "title": "LG"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "af271b25-2f03-46b3-a7b0-8f59d2fb8b71",
+                "answer": "It can be connected to Wi-Fi & mobile hotspot. It will just ask for DTH everytime you switch on.\nBy Anand on 4 October, 2022",
+                "question": "Does it require set top box or it can be connected to wifi or mobile wifi?"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "Replacement period": 12,
+            "compatibility": "\u200eLG ELECTRONICS",
+            "controlType": "Bluetooth",
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReturn": "23",
+            "height": "3",
+            "importerDetails": "Amazon",
+            "inBox": "LG ",
+            "inputVoltage": "56",
+            "installationType": {
+              "key": "f2581b87-0339-42f0-9404-04d034b2563a",
+              "value": "Agent"
+            },
+            "keyFeatures": "Full Web Browser",
+            "length": "34.5",
+            "manufacturerName": "LG ELECTRONICS",
+            "material": "Smart Slim Design",
+            "modelName": "LG Graphics Processor",
+            "modelYear": 1213,
+            "netWeight": "34",
+            "outputVoltage": "32",
+            "productCapacity": "\u200eHigh Brightness",
+            "productColor": "Grey",
+            "productType": "Headphone",
+            "productUrl": "https://www.amazon.in/LG-inches-Ready-32LQ576BPSA-Ceramic/dp/B09YL9SN9B/ref=lp_5903485031_1_4",
+            "quantity": "5",
+            "ratingEnergyStar": 6,
+            "recommendedFor": "All users",
+            "relatedLink": "https://www.amazon.in/LG-inches-Ready-32LQ576BPSA-Ceramic/dp/B09YL9SN9B/ref=lp_5903485031_1_4",
+            "technicalSpecification": " Remote Control",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            },
+            "width": "12"
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "400e4417-2bb6-431c-be65-445f33b3b2c7",
+                "description": "Warranty Information: 1 Year LG India Comprehensive Warranty and additional 1 year Warranty is applicable on panel/module from the date of purchase\nInstallation : For requesting installation/wall mounting/demo of this product once delivered, please directly call LG support (Please visit LG Website for Toll Free Numebrs) and provide product's model name as well as seller's details mentioned on the invoice",
+                "title": "LG"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a0198684d13f0186879527dd009a",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"95ih4\",\"text\":\"Each pixel on the screen can change in relation to the command given to it. The lower the response time, the better\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"d05s\",\"text\":\"32 Inches\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"es9c2\",\"text\":\"LG\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6sgis\",\"text\":\"TechnologyLED\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":10,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a0198684d13f0186879527dd009a",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"95ih4\",\"text\":\"Each pixel on the screen can change in relation to the command given to it. The lower the response time, the better\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "LG Smart LED TV",
+      "productRatingAvgList": [],
+      "productShortDesc": "LG 80 cm (32 inches) HD Ready Smart LED",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"d05s\",\"text\":\"32 Inches\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"es9c2\",\"text\":\"LG\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6sgis\",\"text\":\"TechnologyLED\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":10,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680267591907,
+      "displayName": "HP Pavilion 14dv2041TU",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/21ce40d2-c11e-4561-af70-f7f03d9f6901/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/614ff7e1-f0ca-4a28-af13-9622410067f4/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/hp 1.jpg",
+            "documentName": "hp 1.jpg",
+            "documentSize": 171891
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/87389ac9-3c7d-4b99-965b-aa2a224bea7f/hp 1.jpg",
+            "documentName": "hp 1.jpg",
+            "documentSize": 171891
+          }
+        ],
+        "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/d5e6c74b-8246-4cbb-9401-aeae8c98760b/EXCLUSIVE OFFER !! Intel core i5 12400 pc build in india 2022 _ Intel 12gen Budget PC Build.mp4",
+            "documentName": "EXCLUSIVE OFFER !! Intel core i5 12400 pc build in india 2022 _ Intel 12gen Budget PC Build.mp4",
+            "documentSize": 16117670
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a3a58733583c01873692a1240074/ef69bdde-b513-4831-a74c-686a1c0ef605/hp 1.jpg",
+            "documentName": "hp 1.jpg",
+            "documentSize": 171891
+          }
+        ]
+      },
+      "id": "8a80a3a58733583c01873692a1240074mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680278756147,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+            "businessCategoryName": "Automotive Aftermarket"
+          },
+          "uid": "8a80a3998736dc9f0187370ee1a50002"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "64268bf1bef591440a5b3000"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "384d9aae-0f38-43af-ab80-bb9ca0df57f4",
+                "description": "no",
+                "displayOrder": "0",
+                "title": "How much ram we can expand in hp 14 s model 8 512"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "8a22c0a1-1a91-4a20-a5a6-9935563e0fe1",
+                "answer": "HARD CARBON PLASTIC with carbon",
+                "displayOrder": "0",
+                "question": "What is its body made of ? Plastic or matel"
+              },
+              {
+                "_id": "ce053121-049b-4285-a6e9-b5fbf0a30813",
+                "answer": "yes",
+                "displayOrder": "1",
+                "question": "Does it have extended warrenty ??"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "pricingPlan": {
+          "hsnCode": "11223344",
+          "stock": 1000
+        },
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "compatibility": "Windows 11",
+            "controlType": "auto",
+            "countryOfOrigin": {
+              "key": "f497f48f-0355-4bf6-9554-692b57613f9c",
+              "value": "India"
+            },
+            "gracePeriodForReplacement": 12,
+            "gracePeriodForReturn": "10",
+            "height": "233",
+            "importerDetails": "Dell India Pvt Ltd",
+            "inBox": "charger cable user manual",
+            "inputVoltage": "12",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Intel Core i5-1235U (up to 4.4 GHz with Intel Turbo Boost Technology(2g),12 MB L3 cache, 10 cores, 12 threads)| Memory & Storage: 16 GB DDR4-3200 SDRAM (2 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD",
+            "length": "23323",
+            "manufacturerName": "HP",
+            "material": "plastic",
+            "modelName": "HP pavilion 14-dv2041TU",
+            "modelYear": 2022,
+            "netWeight": "1650",
+            "outputVoltage": "12",
+            "productCapacity": "1",
+            "productColor": "black",
+            "productType": "portable laptop",
+            "productUrl": "https://www.amazon.in/dp/B09R1L73TM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B09R1L73TM&pd_rd_w=uUhBC&content-id=amzn1.sym.b3dfef88-30a1-490c-be36-e990ef384667&pf_rd_p=b3dfef88-30a1-490c-be36-e990ef384667&pf_rd_r=FYCWFFSFMCMJJCQHCDR8&pd_rd_wg=zk9uZ&pd_rd_r=bd5de568-0ef4-4119-a7fe-8d8bfe1f14a8&s=computers&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+            "quantity": "2332",
+            "ratingEnergyStar": 1,
+            "recommendedFor": "laptop",
+            "relatedLink": "https://www.amazon.in/dp/B09R1L73TM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B09R1L73TM&pd_rd_w=uUhBC&content-id=amzn1.sym.b3dfef88-30a1-490c-be36-e990ef384667&pf_rd_p=b3dfef88-30a1-490c-be36-e990ef384667&pf_rd_r=FYCWFFSFMCMJJCQHCDR8&pd_rd_wg=zk9uZ&pd_rd_r=bd5de568-0ef4-4119-a7fe-8d8bfe1f14a8&s=computers&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+            "technicalSpecification": "Intel Core i5-1235U (up to 4.4 GHz with Intel Turbo Boost Technology(2g),12 MB L3 cache, 10 cores, 12 threads)| Memory & Storage: 16 GB DDR4-3200 SDRAM (2 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            },
+            "width": "33"
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "19dd8c9a-92c6-4216-8821-9576d94b7a98",
+                "attachmentKey": "8a80a41c87335c0d0187369c8ba900af",
+                "description": "AMD Ryzen 5-5500U 14 inches(35cm) FHD",
+                "displayOrder": "0",
+                "title": " HP 14s"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a3a58733583c01873692a1240074",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"63m91\",\"text\":\"Brand HP\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"cf6eu\",\"text\":\"Model Name HP Pavilion\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":11,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"8f4s9\",\"text\":\"Screen Size 14 Inches\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":12,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"9u9pa\",\"text\":\"Colour Silver\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":7,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"bjgat\",\"text\":\"Hard Disk Size 512 GB\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":15,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"1erj5\",\"text\":\"CPU Model Core i5\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":10,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"35fsi\",\"text\":\"RAM Memory Installed Size 16 GB\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":26,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"57gp\",\"text\":\"Operating System Windows 11 Home\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":17,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"enj5e\",\"text\":\"Special Feature Full HD, Micro-Edge Display\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":16,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"9cvqr\",\"text\":\"Graphics Card Description Integrated\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":26,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"84e4b\",\"text\":\"General Our Terms apply to the exclusion of any terms and conditions of the supplier conflicting or deviating from our Terms unless we have expressly agreed to them in writing. Acceptance of or payment for the supplier\u2019s goods and services (the \u201cGoods\u201d) shall not constitute an agreement of any such terms and conditions even if the acceptance or payment is made with knowledge of conflicting or supplementary terms and conditions of the supplier. Any terms and conditions of the supplier previously agreed that conflict with or supplement these Terms shall no longer be deemed agreed.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a3a58733583c01873692a1240074",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "HP Pavilion 14dv2041TU",
+      "productRatingAvgList": [],
+      "productShortDesc": "12th Gen Intel Core i5 16GB RAM/512GB SSD 14 inch(35.6cm)G 120Hz 250 nits, Win 11 + MSO'21, Black (D560874WIN9B, 1.65KGs)",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680268107120,
+      "displayName": "Telematic Device",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+            "documentSize": 216312
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/21ce40d2-c11e-4561-af70-f7f03d9f6901/gps-tracking-system-for-service-providers (1).pdf",
+            "documentName": "gps-tracking-system-for-service-providers (1).pdf",
+            "documentSize": 2193066
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/614ff7e1-f0ca-4a28-af13-9622410067f4/GPS warrenty.pdf",
+            "documentName": "GPS warrenty.pdf",
+            "documentSize": 701443
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/Telematic device 2.jpg",
+            "documentName": "Telematic device 2.jpg",
+            "documentSize": 27359
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/87389ac9-3c7d-4b99-965b-aa2a224bea7f/Telematic device 2.jpg",
+            "documentName": "Telematic device 2.jpg",
+            "documentSize": 27359
+          }
+        ],
+        "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/d5e6c74b-8246-4cbb-9401-aeae8c98760b/V88R\u00ae Ultra Mini Portable GF-07 GPS Tracker with Voice Recording ,Real Time Tracking Device for Cars.mp4",
+            "documentName": "V88R\u00ae Ultra Mini Portable GF-07 GPS Tracker with Voice Recording ,Real Time Tracking Device for Cars.mp4",
+            "documentSize": 2186085
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187369a7db000a7/ef69bdde-b513-4831-a74c-686a1c0ef605/Telematic device 1.jpg",
+            "documentName": "Telematic device 1.jpg",
+            "documentSize": 53573
+          }
+        ]
+      },
+      "id": "8a80a41c87335c0d0187369a7db000a7mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680278810423,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "d5890695-6e2b-41b1-aa5d-ec998f6b0dd5",
+            "businessCategoryName": "Fleet & Logistics"
+          },
+          "uid": "8a80a38c8736dba701873707e5010002"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+        "displayName": "Hardware",
+        "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+        "productCategoryName": "Hardware"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "64268df41e059572dfe1350b"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "1ef48d8f-34cb-4460-bc98-8b64edeb4979",
+                "description": "400 Milliamp Hours",
+                "displayOrder": "0",
+                "title": "Battery Capacity"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "8e5d688c-cb9b-42a5-bcce-52ae6dea2dd9",
+                "answer": "u have to connect once battery runs out",
+                "displayOrder": "0",
+                "question": "is it supported through battery or do we have to connect a input"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "pricingPlan": {
+          "hsnCode": "45454545",
+          "stock": 666
+        },
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "compatibility": "Smartphone",
+            "controlType": "realtime and delayed time Real time GPS trackers This type of tracker provides information about your car as its happening This can include anything from location updates to vehicle diagnostics",
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 7,
+            "gracePeriodForReturn": "10",
+            "height": "35",
+            "importerDetails": "AUSHA EXPORTS P LTD",
+            "inBox": "Tracking Device",
+            "inputVoltage": "48",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Voice Recorder, GPS Tracker",
+            "length": "13",
+            "manufacturerName": "AUSHA EXPORTS P LTD",
+            "material": "Plastic",
+            "modelName": "Tracking Device",
+            "modelYear": 2022,
+            "netWeight": "60",
+            "outputVoltage": "32",
+            "productCapacity": "Customizable Alerts, Driver Behavior Monitoring, Mobile Fleet Tracking",
+            "productColor": "Black",
+            "productType": "A GPS tracking device is a portable unit that allows users to monitor and track its location These devices are most commonly used in vehicles as car tracking systems While tracking devices are similar to in car navigation systems there are a few key differences",
+            "productUrl": "https://www.amazon.in/GPS-Tracking-Device-Recording-Safety/dp/B0B1B5M3WN/ref=sr_1_20?keywords=telematics+device+car&qid=1677742651&sr=8-20",
+            "quantity": "1",
+            "ratingEnergyStar": 3,
+            "recommendedFor": "Auxiliary handle",
+            "relatedLink": "https://www.amazon.in/GPS-Tracking-Device-Recording-Safety/dp/B0B1B5M3WN/ref=sr_1_20?keywords=telematics+device+car&qid=1677742651&sr=8-20",
+            "technicalSpecification": "Complete control on mobile assets, Improve dispatching operations & efficient fleet utilization",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            },
+            "width": "74"
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "ac5c28c2-d0bc-40ca-bc72-428a156680c5",
+                "attachmentKey": "8a80a41c87335c0d0187369aae0900a9",
+                "description": "GPS Device",
+                "displayOrder": "0",
+                "title": "Item model number"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a41c87335c0d0187369a7db000a7",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"fhi0l\",\"text\":\"[Tracker Recording,Sound Monitoring]Use GPS tracker Recording, Sound monitoring, tracking, etc. Set multiple functions of security, tracking, monitoring surveillance, emergency alarms and management in its entirety, Support remote control of mobile phone. Perfect for tracking vehicles, kids, spouses, elderly persons or asset.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1jjq\",\"text\":\"This GPS Tracker is super small (1.57x0.91x0.61in) and super light (1.06 oz). works worldwide with two powerful magnets inside, easy to attach to vehicle firmly.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"3fnip\",\"text\":\"Customer may request a copy of any Customer data within thirty (30) days of expiration or termination of the Term thereafter, Company has no obligation to retain the Customer data and may delete the data in accordance with Company\u2019s then current data retention policy.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a41c87335c0d0187369a7db000a7",
+      "productLanguage": null,
+      "productLongDesc": null,
+      "productName": "Telematic Device",
+      "productRatingAvgList": [],
+      "productShortDesc": "V88R Car GPS Tracking Device with Voice Recording for Kids Safety ,Bikes, Cars, Elders & Pets",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676909824390,
+      "displayName": "NewQAInternalDataProduct555",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a2e68654203101866e6f29c70083mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676910264023,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+            "businessCategoryName": "Mobility Tech"
+          },
+          "uid": "8a80a2e68654203101866e734b280085"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f3505d5c3bc466a5101487"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a2e68654203101866e6f29c70083",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "7796b6d3-8682-4c54-8c8c-24455823a277",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle\u00a0Data\u00a0Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a2e68654203101866e6f29c70083",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "NewQAInternalDataProduct555",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676912499077,
+      "displayName": "NewQAInternalDataProduct558",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a36e866e3e9801866e97f9c3001dmos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676913988647,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+            "businessCategoryName": "Mobility Tech"
+          },
+          "uid": "8a80a13d8655ac5101866e999f290061"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f35a39ae20a129421c8844"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a36e866e3e9801866e97f9c3001d",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "3cffd8aa-e652-43aa-a7b1-485aa804ae08",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle\u00a0Data\u00a0Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a36e866e3e9801866e97f9c3001d",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "NewQAInternalDataProduct558",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676914122387,
+      "displayName": "NewQAInternalDataProduct559",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a13d8655ac5101866eb0bed30067mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676914328913,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+            "businessCategoryName": "Mobility Tech"
+          },
+          "uid": "8a80a13d8655ac5101866eb303790069"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f360db25de8b2bb29d85b6"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a13d8655ac5101866eb0bed30067",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "b74dff07-d064-4d3f-8a8f-b0afe8d8703e",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle\u00a0Data\u00a0Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a13d8655ac5101866eb0bed30067",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "NewQAInternalDataProduct559",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676907975293,
+      "displayName": "Data app testing",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a13d8655ac5101866e52f2bd0041mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676910873597,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f348d36a2000397910a1c6"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a13d8655ac5101866e52f2bd0041",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "021e172e-3c00-4077-b7ef-73e5228fef94",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle Data Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a13d8655ac5101866e52f2bd0041",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "Data app testing",
+      "productRatingAvgList": [],
+      "productShortDesc": "10 days of Vecan data from Passenger Car-Taxi segment in India. ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676914130407,
+      "displayName": "HOME SENSOR 2 PROTECT",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a2e68654203101866eb0de250095mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676914838327,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a2e68654203101866eb754d40099"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f360ef6a2000397910a1c8"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a2e68654203101866eb0de250095",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "67642a0b-dcaf-4ef2-bd07-92671dba8f07",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle Data Analytics"
+          },
+          {
+            "_id": "b56274cd-c182-49d2-b783-9608f4c79545",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle Data Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a2e68654203101866eb0de250095",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "HOME SENSOR 2 PROTECT",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676903534067,
+      "displayName": "Data application test1234",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a480866d823801866e0f2e330014mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676903705070,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+            "businessCategoryName": "Automotive Aftermarket"
+          },
+          "uid": "8a80a480866d823801866e1092030017"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "eb6b86f6-b5f9-45fd-9b1a-4e0fd11347f2",
+            "businessCategoryName": "Electrification"
+          },
+          "uid": "8a80a480866d823801866e1092050018"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+        "displayName": "Data",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f337598a91ee3ae181d322"
+        },
+        "collectionDate": "02/02/2022",
+        "dataSize": "6.47GB",
+        "dataType": "Vehicle Data",
+        "dataVolume": "2309",
+        "deliveryType": "Static File Download",
+        "downloadLimitCount": "20",
+        "geography": "Asia-India",
+        "inputFileFormat": "CSV",
+        "noOfAttributes": 62,
+        "productId": "8a80a480866d823801866e0f2e330014",
+        "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+        "subcategory": [
+          {
+            "_id": "10f58eb3-b0bd-4ab0-922f-e0105fc5a171",
+            "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+            "name": "Vehicle Data Analytics"
+          }
+        ],
+        "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+        "validity": 3
+      },
+      "productId": "8a80a480866d823801866e0f2e330014",
+      "productLanguage": null,
+      "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+      "productName": "Data application test1234",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "1. Data will be shared only once.2. Data can\u2019t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675878771727,
+      "displayName": "Saas Service",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a3ed8630cae1018630fa8c4e0003mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675879258080,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a2138630cd0d018630fd0dae000c"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "89b0fd2b-7a34-4d1a-920a-94bf327411f0",
+        "displayName": "Enterprise Licensing",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Enterprise Licensing"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e3943d1addb054fd357129"
+        },
+        "productFeatures": "ssssssssssssss",
+        "productId": "8a80a3ed8630cae1018630fa8c4e0003",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productShortDesc": "Vehicle Data",
+        "supportInformation": "ssd",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjssjsjs"
+      },
+      "productId": "8a80a3ed8630cae1018630fa8c4e0003",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Saas Service",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675879559240,
+      "displayName": "Saas Service 2",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a2138630cd0d01863106908a0014mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675879638217,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a4cd8630ce1101863106fb4a0018"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "89b0fd2b-7a34-4d1a-920a-94bf327411f0",
+        "displayName": "Enterprise Licensing",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Enterprise Licensing"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e397380eec4e6158cf7a40"
+        },
+        "productFeatures": "ssssssssssssss",
+        "productId": "8a80a2138630cd0d01863106908a0014",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productShortDesc": "Vehicle Data",
+        "supportInformation": "ssd",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjssjsjs"
+      },
+      "productId": "8a80a2138630cd0d01863106908a0014",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Saas Service 2",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675879835647,
+      "displayName": "Saas Service 4",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a4cd8630ce110186310ac83e001amos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675879918207,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a2618630cd0b0186310b17030008"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "89b0fd2b-7a34-4d1a-920a-94bf327411f0",
+        "displayName": "Enterprise Licensing",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Enterprise Licensing"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e3984b1addb054fd35712a"
+        },
+        "productFeatures": "ssssssssssssss",
+        "productId": "8a80a4cd8630ce110186310ac83e001a",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productShortDesc": "Vehicle Data",
+        "supportInformation": "ssd",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjssjsjs"
+      },
+      "productId": "8a80a4cd8630ce110186310ac83e001a",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Saas Service 4",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675879330587,
+      "displayName": "Saas Service 1",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a4cd8630ce1101863103135a0014mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675879548597,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a2138630cd0d0186310418e00012"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "89b0fd2b-7a34-4d1a-920a-94bf327411f0",
+        "displayName": "Enterprise Licensing",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Enterprise Licensing"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e3967a0eec4e6158cf7a3f"
+        },
+        "productFeatures": "ssssssssssssss",
+        "productId": "8a80a4cd8630ce1101863103135a0014",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productShortDesc": "Vehicle Data",
+        "supportInformation": "ssd",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjssjsjs"
+      },
+      "productId": "8a80a4cd8630ce1101863103135a0014",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Saas Service 1",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "createdDate": 1675879668930,
+      "displayName": "Saas Service 3",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a3ed8630cae1018631083d020011mos",
+      "isActive": true,
+      "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+      "lastModifiedDate": 1675879824053,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "a17c9b66-68fe-42bf-bfe4-61ee639b0c22",
+            "businessCategoryName": "Data"
+          },
+          "uid": "8a80a3ed8630cae1018631092d060013"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "89b0fd2b-7a34-4d1a-920a-94bf327411f0",
+        "displayName": "Enterprise Licensing",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Enterprise Licensing"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63e397c24480f36638f3929a"
+        },
+        "productFeatures": "ssssssssssssss",
+        "productId": "8a80a3ed8630cae1018631083d020011",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+        "productShortDesc": "Vehicle Data",
+        "supportInformation": "ssd",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjssjsjs"
+      },
+      "productId": "8a80a3ed8630cae1018631083d020011",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site.",
+      "productName": "Saas Service 3",
+      "productRatingAvgList": [],
+      "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short ",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "rewq",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1678531124120,
+      "displayName": "PR2144",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a50f86cbd5570186cf123bd70003mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1678532011500,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a04a86cbd77f0186cf1dcb340002"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "5b8b6ba2-d219-456b-b3f4-1c1edd8e13c4",
+        "displayName": "Hardware Group Check",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Hardware Group Check"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640c0cdfbe62b370ad4e9f36"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "1e631732-de67-4348-8c49-1e3bea6c7ec2",
+                "displayOrder": "0"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "86d2bf76-0018-4af1-a4fa-0378c74ae6c4",
+                "displayOrder": "0"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "pricingPlan": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 11,
+            "gracePeriodForReturn": "2",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "tes",
+            "manufacturerName": "tes",
+            "material": "test",
+            "modelName": "test",
+            "modelYear": 2019,
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "quantity": "2",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "technicalSpecification": "te",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "82b54533-7bfb-4990-bece-9703a196c8a9",
+                "displayOrder": "0"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a50f86cbd5570186cf123bd70003",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"6joiu\",\"text\":\"long\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"92hn2\",\"text\":\"terms \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a50f86cbd5570186cf123bd70003",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"6joiu\",\"text\":\"long\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "PR2144",
+      "productRatingAvgList": [],
+      "productShortDesc": "short desc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"92hn2\",\"text\":\"terms \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1678446167337,
+      "displayName": "PR21",
+      "docTypeToDocMetaInfoListMap": {
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a68f86c66c0c0186ca01e56a0000/ef69bdde-b513-4831-a74c-686a1c0ef605/42.jpg",
+            "documentName": "42.jpg",
+            "documentSize": 8653
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a68f86c66c0c0186ca01e56a0000/ef69bdde-b513-4831-a74c-686a1c0ef605/three.jpg",
+            "documentName": "three.jpg",
+            "documentSize": 845941
+          }
+        ]
+      },
+      "id": "8a80a68f86c66c0c0186ca01e56a0000mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1678449195523,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a39986c669230186ca2b1258000b"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+            "businessCategoryName": "Automotive Aftermarket"
+          },
+          "uid": "8a80a39986c669230186ca2b1259000c"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "5b8b6ba2-d219-456b-b3f4-1c1edd8e13c4",
+        "displayName": "Hardware Group Check",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Hardware Group Check"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640ac1026d8de431e7781e43"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "611fbbf2-2458-41ad-99f6-1bbf3ed16d3d",
+                "description": "as",
+                "displayOrder": "0",
+                "title": "wqqw"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "2362e76e-c7fc-4165-865d-4d9a45e1c23e",
+                "displayOrder": "0"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 21,
+            "gracePeriodForReturn": "21",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Test",
+            "manufacturerName": "Test",
+            "material": "Test",
+            "modelName": "Test",
+            "modelYear": 1232,
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/edit",
+            "quantity": "2",
+            "ratingEnergyStar": 6,
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/edit",
+            "technicalSpecification": "Test",
+            "warranty": {
+              "key": "0896ee7c-9dcf-4d9a-b462-22904ed7783c",
+              "value": "2 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "abe0d133-5f1c-4fc4-b984-e8cf4c87ed4a",
+                "description": "nnnnn",
+                "displayOrder": "0",
+                "title": "n"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a68f86c66c0c0186ca01e56a0000",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"75cok\",\"text\":\"long description\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"duql7\",\"text\":\"terms and condtion of user\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a68f86c66c0c0186ca01e56a0000",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"75cok\",\"text\":\"long description\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "PR21",
+      "productRatingAvgList": [],
+      "productShortDesc": "short description",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"duql7\",\"text\":\"terms and condtion of user\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "approved",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1678473647717,
+      "displayName": "prod 3",
+      "docTypeToDocMetaInfoListMap": {
+        "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/[P9.1 Bosch MM]Issue List - Dev server.doc",
+            "documentName": "[P9.1 Bosch MM]Issue List - Dev server.doc",
+            "documentSize": 448000
+          }
+        ],
+        "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/21ce40d2-c11e-4561-af70-f7f03d9f6901/Copy of Content Management_ (2) (1).docx",
+            "documentName": "Copy of Content Management_ (2) (1).docx",
+            "documentSize": 104871
+          }
+        ],
+        "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/614ff7e1-f0ca-4a28-af13-9622410067f4/example [Iteration 2] - Copy (2).xlsx",
+            "documentName": "example [Iteration 2] - Copy (2).xlsx",
+            "documentSize": 53141
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/614ff7e1-f0ca-4a28-af13-9622410067f4/example [Iteration 2] - Copy (3).xlsx",
+            "documentName": "example [Iteration 2] - Copy (3).xlsx",
+            "documentSize": 53141
+          }
+        ],
+        "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/42.jpg",
+            "documentName": "42.jpg",
+            "documentSize": 8653
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/43.jpg",
+            "documentName": "43.jpg",
+            "documentSize": 9784
+          },
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/hdmi.jpg",
+            "documentName": "hdmi.jpg",
+            "documentSize": 6382
+          }
+        ],
+        "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/87389ac9-3c7d-4b99-965b-aa2a224bea7f/Wireless bluetooth.jpg",
+            "documentName": "Wireless bluetooth.jpg",
+            "documentSize": 17807
+          }
+        ],
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a11d86cb9deb0186cba536a30002/ef69bdde-b513-4831-a74c-686a1c0ef605/43.jpg",
+            "documentName": "43.jpg",
+            "documentSize": 9784
+          }
+        ]
+      },
+      "id": "8a80a11d86cb9deb0186cba536a30002mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1678531996890,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a51486cbafb50186cbcc55580000"
+        },
+        {
+          "businessCategory": {
+            "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+            "businessCategoryName": "Automotive Aftermarket"
+          },
+          "uid": "8a80a51486cbafb50186cbcc555f0001"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "5b8b6ba2-d219-456b-b3f4-1c1edd8e13c4",
+        "displayName": "Hardware Group Check",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Hardware Group Check"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640b2c583192aa6583040d8e"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "24732092-e0d1-400a-b169-625adbf708fa",
+                "displayOrder": "0"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "a1c9254b-b10f-4e51-ab34-2ae0b6200f11",
+                "displayOrder": "0"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "pricingPlan": {
+          "hsnCode": "24324324",
+          "stock": 34
+        },
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 12,
+            "gracePeriodForReturn": "23",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Text",
+            "manufacturerName": "Text",
+            "material": "Text",
+            "modelName": "Text",
+            "modelYear": 1232,
+            "productType": "Text",
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "quantity": "23",
+            "ratingEnergyStar": 3,
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "technicalSpecification": "Text",
+            "warranty": {
+              "key": "0896ee7c-9dcf-4d9a-b462-22904ed7783c",
+              "value": "2 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "13cc7f68-c3a0-4e30-abd0-0a70445ae6a0",
+                "attachmentKey": "8a80a45786cb9e1f0186cba61f410003",
+                "description": "desc",
+                "displayOrder": "0",
+                "title": "title"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a11d86cb9deb0186cba536a30002",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"a7o3c\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"6huoa\",\"text\":\"deesc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a11d86cb9deb0186cba536a30002",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"a7o3c\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "prod 3",
+      "productRatingAvgList": [],
+      "productShortDesc": "desc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"6huoa\",\"text\":\"deesc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Approved",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1678475628580,
+      "displayName": "Prod 20",
+      "docTypeToDocMetaInfoListMap": {
+        "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a0d686cbaca90186cbc370630005/ef69bdde-b513-4831-a74c-686a1c0ef605/41.jpg",
+            "documentName": "41.jpg",
+            "documentSize": 7243
+          }
+        ]
+      },
+      "id": "8a80a0d686cbaca90186cbc370630005mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1678475926917,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a03486cbacfb0186cbc503b60000"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "5b8b6ba2-d219-456b-b3f4-1c1edd8e13c4",
+        "displayName": "Hardware Group Check",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Hardware Group Check"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640b3415abcef51fd7110574"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailGroup": [
+              {
+                "_id": "b0e3777b-e0dc-4323-979a-f44cdf3d3b25",
+                "displayOrder": "0"
+              }
+            ]
+          },
+          "faq": {
+            "faqOfTheProducts": [
+              {
+                "_id": "df91b31b-ba6b-4b28-bf43-c5fde8f004f6",
+                "displayOrder": "0"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "countryOfOrigin": {
+              "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+              "value": "Germany"
+            },
+            "gracePeriodForReplacement": 21,
+            "gracePeriodForReturn": "21",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "Text",
+            "manufacturerName": "Text",
+            "material": "Text",
+            "modelName": "Text",
+            "modelYear": 1232,
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "quantity": "23",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+            "technicalSpecification": "Text",
+            "warranty": {
+              "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+              "value": "1 Year"
+            }
+          },
+          "productHighlights": {
+            "highlightsGroup": [
+              {
+                "_id": "1297b5dc-7d41-439c-9b57-22b1d31cd468",
+                "attachmentKey": "8a80a1da86cbad100186cbc43c690002",
+                "description": "desc",
+                "displayOrder": "0",
+                "title": "Title"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a0d686cbaca90186cbc370630005",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"avb4f\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"9ulqb\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a0d686cbaca90186cbc370630005",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"avb4f\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "Prod 20",
+      "productRatingAvgList": [],
+      "productShortDesc": "desc",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"9ulqb\",\"text\":\"desc\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1681219196593,
+      "displayName": "Cloud infrastructure contact sales",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a2cc876b3eba01876f4af6f20008mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1681220792220,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "d5890695-6e2b-41b1-aa5d-ec998f6b0dd5",
+            "businessCategoryName": "Fleet & Logistics"
+          },
+          "uid": "8a80a069876f4e9401876f61fce20000"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "06033e78-6863-49fa-be59-0908b79b8fdb",
+        "displayName": "Cloud Infrastructure",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Cloud Infrastructure"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "643516f50991572c87cd9a9a"
+        },
+        "productFeatures": "hshsh",
+        "productId": "8a80a2cc876b3eba01876f4af6f20008",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+        "supportInformation": "sjsjssj",
+        "termsAndConditions": "recheck double recheck rechanged changed method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjsjsjs"
+      },
+      "productId": "8a80a2cc876b3eba01876f4af6f20008",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+      "productName": "Cloud infrastructure contact sales",
+      "productRatingAvgList": [],
+      "productShortDesc": "Vehicle Data provides all the information and details of your product on your ecommerce site",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "createdDate": 1676979336023,
+      "displayName": "Cloud Service 2",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a36e866e3e9801867293d3980058mos",
+      "isActive": true,
+      "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+      "lastModifiedDate": 1676979634977,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "d5890695-6e2b-41b1-aa5d-ec998f6b0dd5",
+            "businessCategoryName": "Fleet & Logistics"
+          },
+          "uid": "8a80a49b866e3e7c01867296da57005a"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "06033e78-6863-49fa-be59-0908b79b8fdb",
+        "displayName": "Cloud Infrastructure",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Cloud Infrastructure"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "63f45f735c3bc466a5101492"
+        },
+        "productFeatures": "hshsh",
+        "productId": "8a80a36e866e3e9801867293d3980058",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+        "supportInformation": "sjsjssj",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "url": "URL",
+        "usageInformation": "sjsjsjs"
+      },
+      "productId": "8a80a36e866e3e9801867293d3980058",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+      "productName": "Cloud Service 2",
+      "productRatingAvgList": [],
+      "productShortDesc": "Vehicle Data provides all the information and details of your product on your ecommerce site",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1680025354867,
+      "displayName": "Cloud infrastructure dev new category",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a365872772a10187282262b30019mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1680025777970,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "d5890695-6e2b-41b1-aa5d-ec998f6b0dd5",
+            "businessCategoryName": "Fleet & Logistics"
+          },
+          "uid": "8a80a50c872773b0018728288f5e0012"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "06033e78-6863-49fa-be59-0908b79b8fdb",
+        "displayName": "Cloud Infrastructure",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Cloud Infrastructure"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "6422d9c24562667750728eec"
+        },
+        "productFeatures": "hshsh",
+        "productId": "8a80a365872772a10187282262b30019",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+        "supportInformation": "sjsjssj",
+        "termsAndConditions": "recheck double recheck rechanged changed method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjsjsjs"
+      },
+      "productId": "8a80a365872772a10187282262b30019",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+      "productName": "Cloud infrastructure dev new category",
+      "productRatingAvgList": [],
+      "productShortDesc": "Vehicle Data provides all the information and details of your product on your ecommerce site",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "kjlkjfdljaldsf",
+      "createdBy": "648da4ea-a61f-46e6-8375-7ce736a80067",
+      "createdDate": 1677760122677,
+      "displayName": "drillingMachine20230302122839",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a14986a0fbfc0186a11daf760000mos",
+      "isActive": true,
+      "lastModifiedBy": "648da4ea-a61f-46e6-8375-7ce736a80067",
+      "lastModifiedDate": 1677760156997,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "fbd9542b-a534-47bc-b2c9-7b9e3fef7921",
+        "displayName": "Drilling Machines",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Drilling Machine"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "6400492484c8066eedd21e79"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailAboutYourProduct": [
+              {
+                "_id": "16244135-a123-4fd1-bf1a-d58bc356bbb4",
+                "description": "dksjfldas",
+                "title": "product title"
+              }
+            ]
+          },
+          "faq": {
+            "doYouWantAddFaqSOYourCustomerWontStruggleWhileUsingYourProducts": [
+              {
+                "_id": "1b3da130-7601-47b7-92b5-94722b833d1d",
+                "answer": "answer",
+                "question": "question"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "compatibility": "hdkdhsffdh",
+            "controlType": "lsakdjf",
+            "countryOfOrigin": {
+              "key": "f497f48f-0355-4bf6-9554-692b57613f9c",
+              "value": "India"
+            },
+            "gracePeriodForReplacement": 5,
+            "gracePeriodForReturn": "22",
+            "height": "56",
+            "importerDetails": "dsflkjds",
+            "inBox": "lkdsajfhfd",
+            "inputVoltage": "25",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "jkdahdhf",
+            "length": "76",
+            "manufacturerName": "dsjlkjfdsalkjfd",
+            "material": "jdsflakjdsf",
+            "modelName": "dkjshkjdh",
+            "modelYear": 2022,
+            "netWeight": "67",
+            "outputVoltage": "44",
+            "powerSupplyRatingEnergyStar": 4,
+            "productCapacity": "jdshfhfdf",
+            "productColor": "white",
+            "productType": "kdsajjfdsh",
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create/dsjfa",
+            "quantity": "55",
+            "recommendedFor": "ldskajjfds",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create/rel",
+            "technicalSpecification": "kjdsahfdkjshf",
+            "warranty": {
+              "key": "0896ee7c-9dcf-4d9a-b462-22904ed7783c",
+              "value": "2 Year"
+            },
+            "width": "56"
+          },
+          "productHighlights": {
+            "ProductHighlightsPublishsomeofthekeycontentandimagessocustomercanseeit": [
+              {
+                "_id": "2b8ced2e-774d-4ba1-aeb6-227812f4e1aa",
+                "description": "sdfjkaldskj",
+                "title": "highlights"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a14986a0fbfc0186a11daf760000",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"3jav3\",\"text\":\"kdjldsajf\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"8koaq\",\"text\":\"jldaksjflkda\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a14986a0fbfc0186a11daf760000",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"3jav3\",\"text\":\"kdjldsajf\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "drillingMachine20230302122839",
+      "productRatingAvgList": [],
+      "productShortDesc": "dflkdjfdsa",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"8koaq\",\"text\":\"jldaksjflkda\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "kjlkjfdljaldsf",
+      "createdBy": "648da4ea-a61f-46e6-8375-7ce736a80067",
+      "createdDate": 1677759807740,
+      "displayName": "drillingMachine20230302122322",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a07586a0fbe00186a118e13b0001mos",
+      "isActive": true,
+      "lastModifiedBy": "648da4ea-a61f-46e6-8375-7ce736a80067",
+      "lastModifiedDate": 1677759849737,
+      "productBusinessCategoryMap": [],
+      "productCategory": {
+        "categoryId": "fbd9542b-a534-47bc-b2c9-7b9e3fef7921",
+        "displayName": "Drilling Machines",
+        "parentProductCategoryId": "fb0f2976-59db-4f2b-b573-5a6a834eeac2",
+        "productCategoryName": "Drilling Machine"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640047e9f1a31f4cbc783707"
+        },
+        "additionalDetails": {
+          "additionalDetails": {
+            "addMoreDetailAboutYourProduct": [
+              {
+                "_id": "7c344858-6d52-4bd4-9adb-59cc26f2491d",
+                "description": "dksjfldas",
+                "title": "product title"
+              }
+            ]
+          },
+          "faq": {
+            "doYouWantAddFaqSOYourCustomerWontStruggleWhileUsingYourProducts": [
+              {
+                "_id": "2e5f453d-6b9a-4b48-be70-ad665ffbfc90",
+                "answer": "answer",
+                "question": "question"
+              }
+            ]
+          }
+        },
+        "media&documents": {},
+        "productDetail": {
+          "documents": {},
+          "genericInformation": {
+            "compatibility": "hdkdhsffdh",
+            "controlType": "lsakdjf",
+            "countryOfOrigin": {
+              "key": "f497f48f-0355-4bf6-9554-692b57613f9c",
+              "value": "India"
+            },
+            "gracePeriodForReplacement": 5,
+            "gracePeriodForReturn": "22",
+            "height": "56",
+            "importerDetails": "dsflkjds",
+            "inBox": "lkdsajfhfd",
+            "inputVoltage": "25",
+            "installationType": {
+              "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+              "value": "Self"
+            },
+            "keyFeatures": "jkdahdhf",
+            "length": "76",
+            "manufacturerName": "dsjlkjfdsalkjfd",
+            "material": "jdsflakjdsf",
+            "modelName": "dkjshkjdh",
+            "modelYear": 2022,
+            "netWeight": "67",
+            "outputVoltage": "44",
+            "powerSupplyRatingEnergyStar": 4,
+            "productCapacity": "jdshfhfdf",
+            "productColor": "white",
+            "productType": "kdsajjfdsh",
+            "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create/dsjfa",
+            "quantity": "55",
+            "recommendedFor": "ldskajjfds",
+            "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create/rel",
+            "technicalSpecification": "kjdsahfdkjshf",
+            "warranty": {
+              "key": "0896ee7c-9dcf-4d9a-b462-22904ed7783c",
+              "value": "2 Year"
+            },
+            "width": "56"
+          },
+          "productHighlights": {
+            "ProductHighlightsPublishsomeofthekeycontentandimagessocustomercanseeit": [
+              {
+                "_id": "42400853-80b6-4386-aaf6-da6c3034695e",
+                "description": "sdfjkaldskj",
+                "title": "highlights"
+              }
+            ]
+          }
+        },
+        "productId": "8a80a07586a0fbe00186a118e13b0001",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"3jav3\",\"text\":\"kdjldsajf\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "termsAndConditions": "{\"blocks\":[{\"key\":\"8koaq\",\"text\":\"jldaksjflkda\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+      },
+      "productId": "8a80a07586a0fbe00186a118e13b0001",
+      "productLanguage": null,
+      "productLongDesc": "{\"blocks\":[{\"key\":\"3jav3\",\"text\":\"kdjldsajf\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "productName": "drillingMachine20230302122322",
+      "productRatingAvgList": [],
+      "productShortDesc": "dflkdjfdsa",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "{\"blocks\":[{\"key\":\"8koaq\",\"text\":\"jldaksjflkda\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+    },
+    {
+      "comments": "Published",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1678718562857,
+      "displayName": "Managed Publish product newdev1",
+      "docTypeToDocMetaInfoListMap": {
+        "tcbb8b72-0fd8-4c26-bd8d-10f4755b0179": [
+          {
+            "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a09086cbd5070186da3e526a0037/tcbb8b72-0fd8-4c26-bd8d-10f4755b0179/123 - Copy.pdf",
+            "documentName": "123 - Copy.pdf",
+            "documentSize": 181936
+          }
+        ]
+      },
+      "id": "8a80a09086cbd5070186da3e526a0037mos",
+      "isActive": true,
+      "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "lastModifiedDate": 1678718699883,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "d5890695-6e2b-41b1-aa5d-ec998f6b0dd5",
+            "businessCategoryName": "Fleet & Logistics"
+          },
+          "uid": "8a80a09086cbd5070186da3edc070039"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "8abe03a8-eac5-4cd8-a10d-c5971b93c082",
+        "displayName": "Managed Services",
+        "parentProductCategoryId": "b2622d6b-0241-46df-a1d5-6e3a58740da7",
+        "productCategoryName": "Managed Services"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "640ee91d71874550f39955de"
+        },
+        "productFeatures": "hshsh",
+        "productId": "8a80a09086cbd5070186da3e526a0037",
+        "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+        "statusDescription": "PUBLISHED",
+        "statusId": "ff841ba0-2141-4c57-b26a-d5af00e03782",
+        "supportInformation": "sjsjssj",
+        "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services",
+        "usageInformation": "sjsjsjs"
+      },
+      "productId": "8a80a09086cbd5070186da3e526a0037",
+      "productLanguage": null,
+      "productLongDesc": "provides all the information and details of your product on your ecommerce site provides all the information and details of your product on your ecommerce site.",
+      "productName": "Managed Publish product newdev1",
+      "productRatingAvgList": [],
+      "productShortDesc": "Vehicle Data provides all the information and details of your product on your ecommerce site",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": "method of protecting your business by requiring that users acknowledge the rules they must abide by when using your services"
+    },
+    {
+      "comments": "test approve - skuid not shown - blank resonse in sku api",
+      "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+      "createdDate": 1685643389157,
+      "displayName": "dataproduct1",
+      "docTypeToDocMetaInfoListMap": {},
+      "id": "8a80a3a88876a8ed018876fec9250003mosen",
+      "isActive": true,
+      "lastModifiedBy": "6ef5be00-fe29-46c5-9507-bd762c42bc2c",
+      "lastModifiedDate": 1685738636090,
+      "productBusinessCategoryMap": [
+        {
+          "businessCategory": {
+            "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+            "businessCategoryName": "Vehicle data"
+          },
+          "uid": "8a80a3a88876a8ed018876fec9290004"
+        }
+      ],
+      "productCategory": {
+        "categoryId": "a667657b-a184-4363-af1a-9d415e419f44",
+        "displayName": "Data_Product_Sample",
+        "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+        "productCategoryName": "Data_Product_Sample"
+      },
+      "productDetailedInfo": {
+        "_id": {
+          "$oid": "64789327054475246257252b"
+        },
+        "productId": "8a80a3a88876a8ed018876fec9250003",
+        "productLongDesc": "{\"blocks\":[{\"key\":\"7fvrv\",\"text\":\"avasv\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "subCategory": [
+          {
+            "_id": "14a77671-5bf0-4705-8e04-110a360fd0f5",
+            "key": "5123yt3d-07ii-48ih-a879-cf95d997yu76",
+            "value": "Vehicle Data Analytics"
+          }
+        ],
+        "tenant": [
+          {
+            "_id": "c3c01d25-a5a3-4a70-bfe1-e5c76fff9356",
+            "key": "mkos",
+            "value": "mkos"
+          }
+        ]
+      },
+      "productId": "8a80a3a88876a8ed018876fec9250003",
+      "productLanguage": "en",
+      "productLongDesc": null,
+      "productName": "dataproduct1",
+      "productRatingAvgList": [],
+      "productShortDesc": "asf",
+      "providerName": null,
+      "purchaseBenefit": null,
+      "tenantId": "mos",
+      "termsAndConditions": null
+    }
+  ],
+  "web_titles": [
+    "",
+    "pan-gst-link (overview)",
+    "enterprise-licensing (mongodb-atlas)",
+    "iot-&-ai (listing)",
+    "passenger-car-taxi-30-days-obd-data-toyota (overview)",
+    "aadhaar-validation-by-otp (api-endpoints)",
+    "communication-services (notification-management-sms)",
+    "track-and-trace-with-routing (pricing)",
+    "cloud-infrastructure (cloud-infrastructure-azure-prod)",
+    "id-classification (overview)",
+    "others (listing)",
+    "change-vehicle-details-for-multi-vehicle-movement (api-endpoints)",
+    "pnr-status (overview)",
+    "digio-face-match-api (pricing)",
+    "esic-search-by-pan (api-endpoints)",
+    "gstin (overview)",
+    "upi-validation (api-endpoints)",
+    "pan-aadhaar-seeding (overview)",
+    "gstin-verification-api (overview)",
+    "rc-verification (api-endpoints)",
+    "fastag-balance-api (pricing)",
+    "card-validator-api (overview)",
+    "create-user-for-parking (overview)",
+    "upi-vpa-verification-api (pricing)",
+    "challan-search-by-vehicle-number (pricing)",
+    "negative-due-diligence-negative-check (api-endpoints)",
+    "hardware",
+    "data",
+    "software-services (device-management)",
+    "driving-license-extraction (overview)",
+    "vecan-data-for-passenger-car-taxi-swift-dzire (data-details)",
+    "itr-upload-ocr (pricing)",
+    "cloud-infrastructure (cloud-infrastructure-aws-sandbox)",
+    "communication-services (notification-management-email)",
+    "parking-tariff (overview)",
+    "rto-information (pricing)",
+    "generate-e-way-bills (pricing)",
+    "upi-verification (overview)",
+    "support",
+    "calculate-distance-eway-bill (api-endpoints)",
+    "cloud-infrastructure (cloud-infrastructure-aws-qa)",
+    "aadhaar-validation-v2 (api-endpoints)",
+    "itr-extraction (pricing)",
+    "advance-pan-verification (api-endpoints)",
+    "ip-address (pricing)",
+    "name-match (overview)",
+    "mobile-operator (api-endpoints)",
+    "soil (overview)",
+    "cheque-upload-ocr (api-endpoints)",
+    "pan-aadhaar-seeding (pricing)",
+    "pollen (api-endpoints)",
+    "aadhaar-extraction (pricing)",
+    "bank-account-verify (overview)",
+    "tracking-apis (pricing)",
+    "trakzeus-bhs (pricing)",
+    "companies-search-by-name-api (api-endpoints)",
+    "pan-aadhaar-seeding (api-endpoints)",
+    "nearby-search (api-endpoints)",
+    "voter-id-verify (overview)",
+    "fms-vehicle-addition-api (api-endpoints)",
+    "generate-business-and-business-unit-eway-bill-api (pricing)",
+    "cancel-einvoice-eway-bill-api (api-endpoints)",
+    "passport-verification (pricing)",
+    "initiate-multi-vehicle-movement-eway-bill-api (overview)",
+    "fleet-vendor-contract-api (overview)",
+    "upi-info-api (overview)",
+    "passenger-car-taxi-80-days-obd-data-toyota-etios (data-details)",
+    "share-live-location (overview)",
+    "validate-upi-handle-(vpa) (api-endpoints)",
+    "fastag-vehicle-tracking (overview)",
+    "cloud-infrastructure (cloud-infrastructure-aws-prod-02)",
+    "iero-personalization-engine (api-endpoints)",
+    "card-validator-api (api-endpoints)",
+    "health-check-api (pricing)",
+    "vehicle-registration-details (api-endpoints)",
+    "fleetable-fms-spare-part-management (overview)",
+    "face-verify-using-image-files (api-endpoints)",
+    "get-e-invoice-by-irn (overview)",
+    "aadhaar-verify (pricing)",
+    "trip-cost (overview)",
+    "fleetable-full-truck-loading (pricing)",
+    "face-verify-using-image-base64 (api-endpoints)",
+    "fuel-information (pricing)",
+    "gstin-verification-api (api-endpoints)",
+    "know-your-tan (pricing)",
+    "itr-compliance-check (overview)",
+    "challan-search-by-vehicle-number (overview)",
+    "upi-verification (api-endpoints)",
+    "negative-due-diligence-negative-check (overview)",
+    "cancel-einvoice-eway-bill-api (pricing)",
+    "address-match (api-endpoints)",
+    "software-services (aaa-management)"
+  ]
+}

@@ -1,0 +1,1258 @@
+{
+  "content": [
+    {
+      "products": [
+        {
+          "comments": "dfjlkjdlfskjdsa",
+          "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+          "createdDate": 1680265923740,
+          "displayName": "dfdlskjfldaj",
+          "docTypeToDocMetaInfoListMap": {
+            "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d018736792cdd0088/ef69bdde-b513-4831-a74c-686a1c0ef605/Chrysanthemum.jpg",
+                "documentName": "Chrysanthemum.jpg",
+                "documentSize": 879394
+              }
+            ]
+          },
+          "id": "8a80a41c87335c0d018736792cdd0088mos",
+          "isActive": true,
+          "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+          "lastModifiedDate": 1680618843867,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+                "businessCategoryName": "Vehicle data"
+              },
+              "uid": "8a80a3ab874777fb01874ad1fbdb0016"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+            "displayName": "Hardware",
+            "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+            "productCategoryName": "Hardware"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "6426856ebef591440a5b2ffe"
+            },
+            "additionalDetails": {
+              "additionalDetails": {
+                "addMoreDetailGroup": [
+                  {
+                    "_id": "55ab823f-3cce-47d4-8677-07f9f38dd86f",
+                    "description": "jdsaljflkaj",
+                    "displayOrder": "0",
+                    "title": "dsjflakjdsf"
+                  }
+                ]
+              },
+              "faq": {
+                "faqOfTheProducts": [
+                  {
+                    "_id": "e9c57ee3-d488-47ff-9134-33b92381f8e3",
+                    "answer": "djflkjdsaflkaf",
+                    "displayOrder": "0",
+                    "question": "dfjlakjfdsl"
+                  },
+                  {
+                    "_id": "cae014f4-64c5-4f0b-b29c-dbcec9e51466",
+                    "answer": "djflkjdsaflkaf",
+                    "displayOrder": "0",
+                    "question": "dfjlakjfdsl"
+                  }
+                ]
+              }
+            },
+            "media&documents": {},
+            "productDetail": {
+              "documents": {},
+              "genericInformation": {
+                "compatibility": "djfdlakjdflj",
+                "controlType": "lkadjfldh",
+                "countryOfOrigin": {
+                  "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+                  "value": "Germany"
+                },
+                "gracePeriodForReplacement": 5,
+                "gracePeriodForReturn": "2",
+                "installationType": {
+                  "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+                  "value": "Self"
+                },
+                "keyFeatures": "ldsjlkjfdsalhd",
+                "manufacturerName": "dfjlkjdsflkjdfsl",
+                "material": "dfkjhfdkhfd",
+                "modelName": "jdslajfjdfslk",
+                "modelYear": 2022,
+                "productCapacity": "jdflajlaj",
+                "productColor": "dskjfadlkjf",
+                "productType": "dlkfjdljf",
+                "productUrl": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+                "quantity": "20",
+                "ratingEnergyStar": 4,
+                "relatedLink": "https://seller-devmssn-revamped.mobilitymarketplace.io/hardware/create",
+                "technicalSpecification": "ldkajflkdshf",
+                "warranty": {
+                  "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+                  "value": "1 Year"
+                }
+              },
+              "productHighlights": {
+                "highlightsGroup": [
+                  {
+                    "_id": "b74727b5-a4ad-4ade-865d-494d3e121327",
+                    "attachmentKey": "8a80a41c87335c0d018736907727009e",
+                    "description": "dfjlkdfjds",
+                    "displayOrder": "0",
+                    "title": "dsfjldjfl"
+                  }
+                ]
+              }
+            },
+            "productId": "8a80a41c87335c0d018736792cdd0088",
+            "productLongDesc": "{\"blocks\":[{\"key\":\"5lk4j\",\"text\":\"jdsfljfdlk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "termsAndConditions": "{\"blocks\":[{\"key\":\"63bb6\",\"text\":\"dlsfjljd\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+          },
+          "productId": "8a80a41c87335c0d018736792cdd0088",
+          "productLanguage": null,
+          "productLongDesc": null,
+          "productName": "dfdlskjfldaj",
+          "productRatingAvgList": [],
+          "productShortDesc": "jdfljdf",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": null
+        },
+        {
+          "comments": "test",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1677509206340,
+          "displayName": "SanDisk",
+          "docTypeToDocMetaInfoListMap": {
+            "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/CPU - Copy.pdf",
+                "documentName": "CPU - Copy.pdf",
+                "documentSize": 654280
+              }
+            ],
+            "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/21ce40d2-c11e-4561-af70-f7f03d9f6901/data-sheet-ultra-usb-3-0.pdf",
+                "documentName": "data-sheet-ultra-usb-3-0.pdf",
+                "documentSize": 662495
+              }
+            ],
+            "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/614ff7e1-f0ca-4a28-af13-9622410067f4/CPU - Copy (2).pdf",
+                "documentName": "CPU - Copy (2).pdf",
+                "documentSize": 654280
+              }
+            ],
+            "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/iQOO.jpg",
+                "documentName": "iQOO.jpg",
+                "documentSize": 14425
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/JBL.jpg",
+                "documentName": "JBL.jpg",
+                "documentSize": 12525
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/JBL2.jpg",
+                "documentName": "JBL2.jpg",
+                "documentSize": 27511
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/Samsung Tv.jpg",
+                "documentName": "Samsung Tv.jpg",
+                "documentSize": 103660
+              }
+            ],
+            "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/87389ac9-3c7d-4b99-965b-aa2a224bea7f/Sandisk 2.jpg",
+                "documentName": "Sandisk 2.jpg",
+                "documentSize": 19557
+              }
+            ],
+            "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/d5e6c74b-8246-4cbb-9401-aeae8c98760b/CPU (CENTRAL PROCESSING UNIT) class-3 - Copy - Copy.mp4",
+                "documentName": "CPU (CENTRAL PROCESSING UNIT) class-3 - Copy - Copy.mp4",
+                "documentSize": 4055090
+              }
+            ],
+            "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/ef69bdde-b513-4831-a74c-686a1c0ef605/JBL.jpg",
+                "documentName": "JBL.jpg",
+                "documentSize": 12525
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/ef69bdde-b513-4831-a74c-686a1c0ef605/Sandisk 1.jpg",
+                "documentName": "Sandisk 1.jpg",
+                "documentSize": 14992
+              }
+            ]
+          },
+          "id": "8a80a43c869203fa0186922901850017mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1677511550190,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+                "businessCategoryName": "Mobility Tech"
+              },
+              "uid": "8a80a00a8692053601869235d6500038"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+            "displayName": "Hardware",
+            "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+            "productCategoryName": "Hardware"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63fc74ffcb37a867b1790e0a"
+            },
+            "additionalDetails": {
+              "additionalDetails": {
+                "addMoreDetailGroup": [
+                  {
+                    "_id": "d1d2284a-edb0-4d22-b40d-ef89edf34fa6",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  },
+                  {
+                    "_id": "5f3fca68-1dc0-49fc-977a-a8a4b1d331dd",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  },
+                  {
+                    "_id": "9fd0847b-89a6-4733-bb59-73d7cfdac6c7",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  },
+                  {
+                    "_id": "295f7295-bb1a-4e16-88d3-2b736a1b9890",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  },
+                  {
+                    "_id": "263a5ad0-39cb-4c63-a249-d4f6926ebaab",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  },
+                  {
+                    "_id": "e6eca8cd-002d-4a9a-959b-ac002bef7c1d",
+                    "description": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "title": "SanDisk"
+                  }
+                ]
+              },
+              "faq": {
+                "faqOfTheProducts": [
+                  {
+                    "_id": "3a9b9fc2-093b-438e-8082-61c787471b26",
+                    "answer": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "question": "SanDisk"
+                  },
+                  {
+                    "_id": "75f8288b-1d71-4745-add3-a116cd165599",
+                    "answer": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+                    "question": "SanDisk"
+                  }
+                ]
+              }
+            },
+            "media&documents": {},
+            "productDetail": {
+              "documents": {},
+              "genericInformation": {
+                "compatibility": "SanDisk co-founder Eli Harari developed the Floating Gate EEPROM which proved the practicality, reliability and endurance of semiconductor-based data storage",
+                "controlType": "he Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory primarily for digital cameras",
+                "countryOfOrigin": {
+                  "key": "a55f7f38-7e71-441c-8578-948e2b0f3f24",
+                  "value": "Germany"
+                },
+                "gracePeriodForReplacement": 20,
+                "gracePeriodForReturn": "20",
+                "height": "2.8",
+                "importerDetails": "the Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory, primarily for digital cameras",
+                "inBox": "the Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory primarily for digital cameras",
+                "inputVoltage": "55554.6",
+                "installationType": {
+                  "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+                  "value": "Self"
+                },
+                "keyFeatures": "SanDisk co-founder Eli Harari developed the Floating Gate EEPROM which proved the practicality, reliability and endurance of semiconductor-based data storage",
+                "length": "7.9",
+                "manufacturerName": "Eli Harari Sanjay Mehrotra",
+                "material": "plastic",
+                "modelName": "Eli Harari Sanjay Mehrotra",
+                "modelYear": 5678,
+                "netWeight": "80.5",
+                "outputVoltage": "55554.6",
+                "productCapacity": "SanDisk coounder Eli Harari developed the Floating Gate EEPROM which proved the practicality reliability and endurance of semiconductor based data storage",
+                "productColor": "Black red",
+                "productType": "SanDisk coounder Eli Harari developed the Floating Gate EEPROM which proved the practicality reliability and endurance of semiconductor based data storage",
+                "productUrl": "https://en.wikipedia.org/wiki/SanDisk",
+                "quantity": "500000000",
+                "ratingEnergyStar": 1,
+                "recommendedFor": "the Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory, primarily for digital cameras",
+                "relatedLink": "https://en.wikipedia.org/wiki/SanDisk",
+                "technicalSpecification": "SanDisk co-founder Eli Harari developed the Floating Gate EEPROM which proved the practicality, reliability and endurance of semiconductor-based data storage",
+                "warranty": {
+                  "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+                  "value": "1 Year"
+                },
+                "width": "9.5"
+              },
+              "productHighlights": {
+                "highlightsGroup": [
+                  {
+                    "_id": "df4ddf2a-5156-4740-b324-c81160e317b2",
+                    "description": "the Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory, primarily for digital cameras",
+                    "title": "the Toshiba Corporation of Japan"
+                  },
+                  {
+                    "_id": "8eb36960-411d-4592-a1bf-63f61b13a61d",
+                    "description": "the Toshiba Corporation of Japan and the SanDisk Corporation said that they would jointly form a new semiconductor company to produce advanced flash memory, primarily for digital cameras",
+                    "title": "the Toshiba Corporation of Japan"
+                  }
+                ]
+              }
+            },
+            "productId": "8a80a43c869203fa0186922901850017",
+            "productLongDesc": "{\"blocks\":[{\"key\":\"inrc\",\"text\":\"SanDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "termsAndConditions": "{\"blocks\":[{\"key\":\"3c0kk\",\"text\":\"SanDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+          },
+          "productId": "8a80a43c869203fa0186922901850017",
+          "productLanguage": null,
+          "productLongDesc": "{\"blocks\":[{\"key\":\"inrc\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":0},{\"offset\":43,\"length\":15,\"key\":1}],\"data\":{}},{\"key\":\"e9pov\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":2},{\"offset\":43,\"length\":15,\"key\":3}],\"data\":{}},{\"key\":\"4thpa\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":4},{\"offset\":43,\"length\":15,\"key\":5}],\"data\":{}},{\"key\":\"90dt4\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":6},{\"offset\":43,\"length\":15,\"key\":7}],\"data\":{}},{\"key\":\"enlqm\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{\"0\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"1\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"2\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"3\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"4\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"5\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"6\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"7\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}}}}",
+          "productName": "SanDisk",
+          "productRatingAvgList": [],
+          "productShortDesc": "SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "{\"blocks\":[{\"key\":\"3c0kk\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":0},{\"offset\":43,\"length\":15,\"key\":1}],\"data\":{}},{\"key\":\"5o9hi\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":2},{\"offset\":43,\"length\":15,\"key\":3}],\"data\":{}},{\"key\":\"ff8fk\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":4},{\"offset\":43,\"length\":15,\"key\":5}],\"data\":{}},{\"key\":\"75tc2\",\"text\":\"SanDisk was founded in 1988 by Eli Harari, Sanjay Mehrotra, and Jack Yuan, incorporated at the time as SunDisk\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[{\"offset\":31,\"length\":10,\"key\":6},{\"offset\":43,\"length\":15,\"key\":7}],\"data\":{}}],\"entityMap\":{\"0\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"1\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"2\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"3\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"4\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"5\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}},\"6\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Eli_Harari\",\"title\":\"Eli Harari\",\"url\":\"https://en.wikipedia.org/wiki/Eli_Harari\"}},\"7\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"href\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\",\"title\":\"Sanjay Mehrotra\",\"url\":\"https://en.wikipedia.org/wiki/Sanjay_Mehrotra\"}}}}"
+        },
+        {
+          "comments": "test",
+          "createdBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+          "createdDate": 1670518639423,
+          "displayName": "SkuidApi",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a3d184ec0bc30184f17d6b7e0ee1mos",
+          "isActive": true,
+          "lastModifiedBy": "eb33f0b9-9f1f-401b-bf68-84c08737d399",
+          "lastModifiedDate": 1674820569157,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "3fdb3c61-fbc3-44cc-a266-a08d57557fb7",
+                "businessCategoryName": "Artificial Intelligence (AI)"
+              },
+              "uid": "8a80a01f85e27d6a0185f1e7a87a0000"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "fd9f9032-3ece-4d33-a5df-3ecc24370ff8",
+            "displayName": "API's",
+            "parentProductCategoryId": "457e3f4b-3076-4578-9c97-521ac69ec9e8",
+            "productCategoryName": "API"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "6391ca1af3e8fc1cf0cec065"
+            },
+            "accessControls": {
+              "authDetails": {
+                "authType": "150dbafa-ae48-48c6-a97a-ae675635cdd0"
+              }
+            },
+            "apiType": "ed621a2f-1f6a-4469-b82b-c10500417be3",
+            "authorizationKey": "a0a5fe0e-9dfc-390f-b793-4606c494aded",
+            "endPointDetails": [
+              {
+                "_id": "16d30d32-d451-49d0-b433-ffe28c45b7bc",
+                "description": "ZXZXZX",
+                "group": [],
+                "headers": [],
+                "method": "57ac73ba-77e0-4a33-a929-3d65ab8f2fe7",
+                "name": "xZXZX",
+                "parameters": [],
+                "path": "/myapi/all/addapi/step3",
+                "pathParameter": []
+              }
+            ],
+            "productId": "8a80a3d184ec0bc30184f17d6b7e0ee1",
+            "productLongDesc": "{\"blocks\":[{\"key\":\"4vrl1\",\"text\":\"sadsadsad test 27 th Jan \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":25,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "termsAndConditions": "{\"blocks\":[{\"key\":\"buplt\",\"text\":\"asdsad\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+          },
+          "productId": "8a80a3d184ec0bc30184f17d6b7e0ee1",
+          "productLanguage": null,
+          "productLongDesc": null,
+          "productName": "SkuidApi",
+          "productRatingAvgList": [],
+          "productShortDesc": "sad",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": null
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676909824390,
+          "displayName": "NewQAInternalDataProduct555",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a2e68654203101866e6f29c70083mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676910264023,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+                "businessCategoryName": "Mobility Tech"
+              },
+              "uid": "8a80a2e68654203101866e734b280085"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f3505d5c3bc466a5101487"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a2e68654203101866e6f29c70083",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "7796b6d3-8682-4c54-8c8c-24455823a277",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a2e68654203101866e6f29c70083",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "NewQAInternalDataProduct555",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676912499077,
+          "displayName": "NewQAInternalDataProduct558",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a36e866e3e9801866e97f9c3001dmos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676913988647,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+                "businessCategoryName": "Mobility Tech"
+              },
+              "uid": "8a80a13d8655ac5101866e999f290061"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f35a39ae20a129421c8844"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a36e866e3e9801866e97f9c3001d",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "3cffd8aa-e652-43aa-a7b1-485aa804ae08",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a36e866e3e9801866e97f9c3001d",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "NewQAInternalDataProduct558",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+          "createdDate": 1680266338883,
+          "displayName": "Dell Inspiron 3520 Laptop",
+          "docTypeToDocMetaInfoListMap": {
+            "1139adc0-7670-4e4b-89e5-3c170c9fb8cc": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/1139adc0-7670-4e4b-89e5-3c170c9fb8cc/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentSize": 216312
+              }
+            ],
+            "21ce40d2-c11e-4561-af70-f7f03d9f6901": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/21ce40d2-c11e-4561-af70-f7f03d9f6901/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentSize": 216312
+              }
+            ],
+            "614ff7e1-f0ca-4a28-af13-9622410067f4": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/614ff7e1-f0ca-4a28-af13-9622410067f4/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentName": "Returns, Refunds and Replacements - Amazon Customer Service 2.pdf",
+                "documentSize": 216312
+              }
+            ],
+            "738a0b13-2efd-428a-a3a7-58fbfff1f4c2": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/dell 1.jpg",
+                "documentName": "dell 1.jpg",
+                "documentSize": 48734
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/dell 2.jpg",
+                "documentName": "dell 2.jpg",
+                "documentSize": 115213
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/dell 3.jpg",
+                "documentName": "dell 3.jpg",
+                "documentSize": 37980
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/dell 4.jpg",
+                "documentName": "dell 4.jpg",
+                "documentSize": 60093
+              },
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/738a0b13-2efd-428a-a3a7-58fbfff1f4c2/dell 5.jpg",
+                "documentName": "dell 5.jpg",
+                "documentSize": 55950
+              }
+            ],
+            "87389ac9-3c7d-4b99-965b-aa2a224bea7f": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/87389ac9-3c7d-4b99-965b-aa2a224bea7f/dell 4.jpg",
+                "documentName": "dell 4.jpg",
+                "documentSize": 60093
+              }
+            ],
+            "d5e6c74b-8246-4cbb-9401-aeae8c98760b": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/d5e6c74b-8246-4cbb-9401-aeae8c98760b/EXCLUSIVE OFFER !! Intel core i5 12400 pc build in india 2022 _ Intel 12gen Budget PC Build.mp4",
+                "documentName": "EXCLUSIVE OFFER !! Intel core i5 12400 pc build in india 2022 _ Intel 12gen Budget PC Build.mp4",
+                "documentSize": 16117670
+              }
+            ],
+            "ef69bdde-b513-4831-a74c-686a1c0ef605": [
+              {
+                "blobFileUrl": "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/ef69bdde-b513-4831-a74c-686a1c0ef605/dell 1.jpg",
+                "documentName": "dell 1.jpg",
+                "documentSize": 48734
+              }
+            ]
+          },
+          "id": "8a80a41c87335c0d0187367f8283008cmos",
+          "isActive": true,
+          "lastModifiedBy": "af776d84-783f-4195-99b0-2dbf7df33f59",
+          "lastModifiedDate": 1680278838083,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+                "businessCategoryName": "Automotive Aftermarket"
+              },
+              "uid": "8a80a41c87335c0d018736c55b3900b5"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "e298c066-96db-477a-883e-4d42f15d91f1",
+            "displayName": "Hardware",
+            "parentProductCategoryId": "cdbd6194-8a24-4893-8dc0-d2e1ad534657",
+            "productCategoryName": "Hardware"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "6426870c1e059572dfe13508"
+            },
+            "additionalDetails": {
+              "additionalDetails": {
+                "addMoreDetailGroup": [
+                  {
+                    "_id": "d61f4b66-60e6-4c56-8c20-af50b7cc813c",
+                    "description": "Yes",
+                    "displayOrder": "0",
+                    "title": "Back light is available?"
+                  },
+                  {
+                    "_id": "cb55628b-acd8-4c14-bc0c-f3d8fa9aa7f7",
+                    "description": "NO",
+                    "displayOrder": "1",
+                    "title": "Ethernet port available?"
+                  }
+                ]
+              },
+              "faq": {
+                "faqOfTheProducts": [
+                  {
+                    "_id": "d0a09f75-c96c-45e5-aa1f-bca180511611",
+                    "answer": "Yes",
+                    "displayOrder": "0",
+                    "question": "Does this laptop comes with a valid windows 11 and office installed and activated?"
+                  },
+                  {
+                    "_id": "9929dec1-56e4-44f4-8edd-9ac5b1ac17db",
+                    "answer": "Please be informed that this laptop supports a maximum memory configuration of 16GB.",
+                    "displayOrder": "1",
+                    "question": "How much RAM can be extended? what is battery backup.?"
+                  }
+                ]
+              }
+            },
+            "media&documents": {},
+            "productDetail": {
+              "documents": {},
+              "genericInformation": {
+                "compatibility": "Windows 11",
+                "controlType": "auto",
+                "countryOfOrigin": {
+                  "key": "f497f48f-0355-4bf6-9554-692b57613f9c",
+                  "value": "India"
+                },
+                "gracePeriodForReplacement": 12,
+                "gracePeriodForReturn": "10",
+                "height": "233",
+                "importerDetails": "Dell India Pvt Ltd",
+                "inBox": "charger cable user manual",
+                "inputVoltage": "12",
+                "installationType": {
+                  "key": "ccd02f51-358f-4899-8bd2-8393eec774e6",
+                  "value": "Self"
+                },
+                "keyFeatures": "i5-1235U, 8GB",
+                "length": "23323",
+                "manufacturerName": "Dell",
+                "material": "plastic",
+                "modelName": "Inspiron 3520",
+                "modelYear": 2022,
+                "netWeight": "1650",
+                "outputVoltage": "12",
+                "productCapacity": "1",
+                "productColor": "black",
+                "productType": "portable laptop",
+                "productUrl": "https://www.amazon.in/Dell-Inspiron-Laptop-i5-1235U-D560874WIN9B/dp/B0BQJ8KL7Q/ref=sr_1_2_sspa?crid=2SAFQHHFHXJN2&keywords=dell+laptop&qid=1680244930&sprefix=dell+laptop,aps,305&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "quantity": "2332",
+                "ratingEnergyStar": 1,
+                "recommendedFor": "laptop",
+                "relatedLink": "https://www.amazon.in/Dell-Inspiron-Laptop-i5-1235U-D560874WIN9B/dp/B0BQJ8KL7Q/ref=sr_1_2_sspa?crid=2SAFQHHFHXJN2&keywords=dell+laptop&qid=1680244930&sprefix=dell+laptop,aps,305&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "technicalSpecification": "1TB + 256GB SSD, 15.6\" (39.62Cms) FHD WVA AG 120Hz 250 nits",
+                "warranty": {
+                  "key": "097fefac-7580-4ef2-a6ee-7c6d288827c8",
+                  "value": "1 Year"
+                },
+                "width": "33"
+              },
+              "productHighlights": {
+                "highlightsGroup": [
+                  {
+                    "_id": "b15ff529-a4e9-4af2-92a7-7e5dea80dcee",
+                    "attachmentKey": "8a80a3a58733583c018736839b840067",
+                    "description": "Laptop,12th Gen Intel Core i5-1235U, 8GB, 1TB + 256GB SSD, ",
+                    "displayOrder": "0",
+                    "title": "Dell Inspiron"
+                  }
+                ]
+              }
+            },
+            "productId": "8a80a41c87335c0d0187367f8283008c",
+            "productLongDesc": "{\"blocks\":[{\"key\":\"63m91\",\"text\":\"Processor: i5-1235U (3.30 GHz up to 4.40 GHz) 12MB, 10 Cores\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"b17e8\",\"text\":\"RAM: 8GB, 8Gx1, DDR4, 2666MHz & Hybrid Storage: 1TB HDD + 256GB SSD\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"ekl5l\",\"text\":\"Graphics & Keyboard: Integrated & Standard Keyboard\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5hflu\",\"text\":\"Display: 15.6\\\" (39.62Cms) FHD WVA AG 120Hz 250 nits Narrow Border\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7c9oh\",\"text\":\"Ports: 2 USB 3.2 Gen 1 port, 1 USB 2.0 port, 1 Headset jack, 1 HDMI 1.4 port*, 1 M.2 2230/2280 slot for solid-state drive, 1 SD 3.0 card slot\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"2ada0\",\"text\":\"WiFi & Bluetooth- Intel Wi-Fi 6 2x2 (Gig+) and Bluetooth 5.2\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "termsAndConditions": "{\"blocks\":[{\"key\":\"84e4b\",\"text\":\"General Our Terms apply to the exclusion of any terms and conditions of the supplier conflicting or deviating from our Terms unless we have expressly agreed to them in writing. Acceptance of or payment for the supplier’s goods and services (the “Goods”) shall not constitute an agreement of any such terms and conditions even if the acceptance or payment is made with knowledge of conflicting or supplementary terms and conditions of the supplier. Any terms and conditions of the supplier previously agreed that conflict with or supplement these Terms shall no longer be deemed agreed.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+          },
+          "productId": "8a80a41c87335c0d0187367f8283008c",
+          "productLanguage": null,
+          "productLongDesc": null,
+          "productName": "Dell Inspiron 3520 Laptop",
+          "productRatingAvgList": [],
+          "productShortDesc": "12th Gen Intel Core i5-1235U, 8GB, 1TB + 256GB SSD 15.6\" (39.62Cms) FHD WVA AG 120Hz 250 nits, Win 11 + MSO'21, Black (D560874WIN9B, 1.65KGs)",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": null
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676914122387,
+          "displayName": "NewQAInternalDataProduct559",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a13d8655ac5101866eb0bed30067mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676914328913,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "a7f8e98b-6b7a-4f4e-b18e-050f8b98de29",
+                "businessCategoryName": "Mobility Tech"
+              },
+              "uid": "8a80a13d8655ac5101866eb303790069"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f360db25de8b2bb29d85b6"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a13d8655ac5101866eb0bed30067",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "b74dff07-d064-4d3f-8a8f-b0afe8d8703e",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a13d8655ac5101866eb0bed30067",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "NewQAInternalDataProduct559",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676907975293,
+          "displayName": "Data app testing",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a13d8655ac5101866e52f2bd0041mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676910873597,
+          "productBusinessCategoryMap": [],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f348d36a2000397910a1c6"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a13d8655ac5101866e52f2bd0041",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "021e172e-3c00-4077-b7ef-73e5228fef94",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a13d8655ac5101866e52f2bd0041",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "Data app testing",
+          "productRatingAvgList": [],
+          "productShortDesc": "10 days of Vecan data from Passenger Car-Taxi segment in India. ",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676914130407,
+          "displayName": "HOME SENSOR 2 PROTECT",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a2e68654203101866eb0de250095mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676914838327,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+                "businessCategoryName": "Vehicle data"
+              },
+              "uid": "8a80a2e68654203101866eb754d40099"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f360ef6a2000397910a1c8"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a2e68654203101866eb0de250095",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "67642a0b-dcaf-4ef2-bd07-92671dba8f07",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              },
+              {
+                "_id": "b56274cd-c182-49d2-b783-9608f4c79545",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a2e68654203101866eb0de250095",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "HOME SENSOR 2 PROTECT",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676903534067,
+          "displayName": "Data application test1234",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a480866d823801866e0f2e330014mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676903705070,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+                "businessCategoryName": "Automotive Aftermarket"
+              },
+              "uid": "8a80a480866d823801866e1092030017"
+            },
+            {
+              "businessCategory": {
+                "businessCategoryId": "eb6b86f6-b5f9-45fd-9b1a-4e0fd11347f2",
+                "businessCategoryName": "Electrification"
+              },
+              "uid": "8a80a480866d823801866e1092050018"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f337598a91ee3ae181d322"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a480866d823801866e0f2e330014",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "10f58eb3-b0bd-4ab0-922f-e0105fc5a171",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a480866d823801866e0f2e330014",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "Data application test1234",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676906072623,
+          "displayName": "Data application test12345",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a480866d823801866e35ea6f001bmos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676906458207,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+                "businessCategoryName": "Automotive Aftermarket"
+              },
+              "uid": "8a80a2e68654203101866e394d710067"
+            },
+            {
+              "businessCategory": {
+                "businessCategoryId": "eb6b86f6-b5f9-45fd-9b1a-4e0fd11347f2",
+                "businessCategoryName": "Electrification"
+              },
+              "uid": "8a80a2e68654203101866e394d890068"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f341446a2000397910a1c4"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a480866d823801866e35ea6f001b",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "141fa1ba-85af-4a4a-b802-066b38586d31",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a480866d823801866e35ea6f001b",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "Data application test12345",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676897920040,
+          "displayName": "Data application test1",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a2e68654203101866db98469005bmos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676898319147,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "0688cead-7a7e-4ac3-ab3e-d5ab4c715df0",
+                "businessCategoryName": "Automotive Aftermarket"
+              },
+              "uid": "8a80a480866d823801866dbaeaac000e"
+            },
+            {
+              "businessCategory": {
+                "businessCategoryId": "eb6b86f6-b5f9-45fd-9b1a-4e0fd11347f2",
+                "businessCategoryName": "Electrification"
+              },
+              "uid": "8a80a480866d823801866dbaeaaf000f"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f321338a91ee3ae181d31f"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a2e68654203101866db98469005b",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "7935c35a-c7e0-4641-8597-ac717f84e7e4",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a2e68654203101866db98469005b",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "Data application test1",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        },
+        {
+          "comments": "Approved",
+          "createdBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "createdDate": 1676912637287,
+          "displayName": "MOBILE TRACKER TEST",
+          "docTypeToDocMetaInfoListMap": {},
+          "id": "8a80a49b866e3e7c01866e9a15a70024mos",
+          "isActive": true,
+          "lastModifiedBy": "3d1bea2b-2666-472a-b5c6-eecaa3f28e42",
+          "lastModifiedDate": 1676913697790,
+          "productBusinessCategoryMap": [
+            {
+              "businessCategory": {
+                "businessCategoryId": "037d1f46-4587-4cc1-97ca-1ae469719a0e",
+                "businessCategoryName": "Vehicle data"
+              },
+              "uid": "8a80a49b866e3e7c01866e9f5cd20028"
+            }
+          ],
+          "productCategory": {
+            "categoryId": "29261eac-241b-47c7-ab46-2a7b02d395fd",
+            "displayName": "Data",
+            "parentProductCategoryId": "afcd3b98-0a53-4aff-9b1d-5cb0824e23cb",
+            "productCategoryName": "Data"
+          },
+          "productDetailedInfo": {
+            "_id": {
+              "$oid": "63f35b4225de8b2bb29d85b4"
+            },
+            "collectionDate": "02/02/2022",
+            "dataSize": "6.47GB",
+            "dataType": "Vehicle Data",
+            "dataVolume": "2309",
+            "deliveryType": "Static File Download",
+            "downloadLimitCount": "20",
+            "geography": "Asia-India",
+            "inputFileFormat": "CSV",
+            "noOfAttributes": 62,
+            "productId": "8a80a49b866e3e7c01866e9a15a70024",
+            "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+            "subcategory": [
+              {
+                "_id": "2d21881c-04e6-469d-b2f1-909d9833399b",
+                "id": "075e8ee4-c286-4802-b88c-6c0f075e4b48",
+                "name": "Vehicle Data Analytics"
+              }
+            ],
+            "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. ",
+            "validity": 3
+          },
+          "productId": "8a80a49b866e3e7c01866e9a15a70024",
+          "productLanguage": null,
+          "productLongDesc": "The Dataset contains 10 Days of Vecan data collected between 10th July 2021 to 19th July 2021 from Passenger Car-Taxi segment across major states in India. The Passenenger Car (PC) models covered under this Dataset: Swift Dzire Tour S States covered under this Dataset: Delhi",
+          "productName": "MOBILE TRACKER TEST",
+          "productRatingAvgList": [],
+          "productShortDesc": " If the concept is unfamiliar, you can start with a brief definition. Avoid using the short description to lead in or build up to a topic",
+          "providerName": null,
+          "purchaseBenefit": null,
+          "tenantId": "mos",
+          "termsAndConditions": "1. Data will be shared only once.2. Data can’t be re-sold 3. This data is of restricted use and Bosch reserves the right to decide if the data can be provided to a particular customer or not. "
+        }
+      ]
+    },
+    {
+      "document_url": [
+        "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a43c869203fa0186922901850017/614ff7e1-f0ca-4a28-af13-9622410067f4/CPU - Copy (2).pdf",
+        "https://pjmsmssdevsa.blob.core.windows.net/prod-docs/8a80a41c87335c0d0187367f8283008c/614ff7e1-f0ca-4a28-af13-9622410067f4/Returns, Refunds and Replacements - Amazon Customer Service 2.pdf"
+      ]
+    },
+    {
+      "web_url": [
+        {
+          "keywords": ["apis (326)"],
+          "url": "https://www.mobilitymarketplace.io/api/others/listing"
+        },
+        {
+          "keywords": ["apis (6)", "solution"],
+          "url": "https://www.mobilitymarketplace.io/api/iot-&-ai/listing"
+        },
+        {
+          "keywords": [
+            "card validator api",
+            "reach us out!",
+            "you may be interested in",
+            "you may also like"
+          ],
+          "url": "https://www.mobilitymarketplace.io/api/card-validator-api/overview/8a828195820fd837018220d3bc0f110b"
+        },
+        {
+          "keywords": [
+            "fastag balance api",
+            "explore the pricing plans available",
+            "reach us out!",
+            "you may be interested in",
+            "you may also like"
+          ],
+          "url": "https://www.mobilitymarketplace.io/api/fastag-balance-api/pricing/8a828122808509c60180a93289f62bba"
+        },
+        {
+          "keywords": [
+            "gstin verification api",
+            "reach us out!",
+            "you may be interested in",
+            "you may also like"
+          ],
+          "url": "https://www.mobilitymarketplace.io/api/gstin-verification-api/overview/8a828122808509c60180995d472017c6"
+        },
+        {
+          "keywords": [
+            "upi vpa verification api",
+            "explore the pricing plans available",
+            "reach us out!",
+            "you may be interested in",
+            "you may also like"
+          ],
+          "url": "https://www.mobilitymarketplace.io/api/upi-vpa-verification-api/pricing/8a82802483e61c060183f4c3811d00a4"
+        },
+        {
+          "keywords": [
+            "digio face match api",
+            "explore the pricing plans available",
+            "reach us out!",
+            "you may be interested in",
+            "you may also like"
+          ],
+          "url": "https://www.mobilitymarketplace.io/api/digio-face-match-api/pricing/8a8281aa83ea321d0183f4c1c482007d"
+        }
+      ]
+    }
+  ],
+  "error": 0,
+  "message": "results"
+}
