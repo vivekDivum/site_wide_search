@@ -1,4 +1,3 @@
-import PageWithSearch from './components/PageWithSearch';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import SearchResults from './pages/SearchResults';
@@ -8,7 +7,6 @@ function App() {
     <div>
       {/*bosch strip */}
       <div className='bosch_strip'></div>
-      {/* <PageWithSearch /> */}
 
       <Routes>
         <Route

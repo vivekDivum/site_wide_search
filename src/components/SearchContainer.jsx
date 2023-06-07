@@ -10,6 +10,9 @@ import product_icon from '../assets/product_icon.png';
 import pdf_icon from '../assets/pdf_icon.svg';
 import xlxs_icon from '../assets/xlxs_icon.svg';
 import earth_icon from '../assets/earth_icon.png';
+import link_icon from '../assets/link.svg';
+import fileDownloadIcon from '../assets/file_download_icon.svg';
+import truncateString from '../helpers/truncateText';
 
 const SearchContainer = () => {
   // local variables
@@ -23,8 +26,9 @@ const SearchContainer = () => {
 
   //   fetching suggestions on component mount
   useEffect(() => {
-    axios.get('http://localhost:5000/get-suggestions')?.then((res) => {
+    axios.get('http://192.168.0.137:5000/get-suggestions')?.then((res) => {
       setApiData(res?.data);
+      console.log(res?.data);
     });
     return () => {
       setApiData();
@@ -70,9 +74,9 @@ const SearchContainer = () => {
           }
         }),
 
-        doc_names: apiData?.doc_names?.filter((filtered_products) => {
+        doc_objects: apiData?.doc_objects?.filter((filtered_products) => {
           if (
-            filtered_products
+            filtered_products?.doc_name
               ?.toLowerCase()
               ?.includes(searchText?.toLowerCase())
           ) {
@@ -80,13 +84,13 @@ const SearchContainer = () => {
           }
         }),
 
-        web_titles: apiData?.web_titles?.filter((filtered_products) => {
+        web_objects: apiData?.web_objects?.filter((filtered_web_objects) => {
           if (
-            filtered_products
+            filtered_web_objects?.title
               ?.toLowerCase()
               ?.includes(searchText?.toLowerCase())
           ) {
-            return filtered_products;
+            return filtered_web_objects;
           }
         })
       });
@@ -94,6 +98,10 @@ const SearchContainer = () => {
       setSearchedProducts(null);
     }
   }, [searchText]);
+
+  useEffect(() => {
+    console.log('searchedProducts:', searchedProducts);
+  }, [searchedProducts]);
 
   return (
     <div>
@@ -148,232 +156,191 @@ const SearchContainer = () => {
           {/* map search filter suggestions */}
           {searchFocusStatus && searchText?.length > 0 && (
             <>
-              {/* old conatiner */}
-              <div className='search_result_container'>
-                {searchedProducts?.products?.length > 0 ||
-                searchedProducts?.doc_names?.length > 0 ||
-                searchedProducts?.web_titles?.length > 0 ? (
-                  <div>
-                    {/* filtered products */}
-                    {searchedProducts?.products?.map((p_data) => {
-                      return (
-                        <div
-                          key={p_data?.id}
-                          className='search_content'
-                          onClick={() => {
-                            setSearchText(p_data?.productName);
-                            setSearchFocuStatus(false);
-                            navigate(`/search/${p_data?.productName}`);
-                          }}
-                        >
-                          <span>{p_data?.productName}</span>
-
-                          <span className='tag'>product</span>
-                        </div>
-                      );
-                    })}
-                    {/* filtered docs */}
-                    {searchedProducts?.doc_names?.map((d_data, d_index) => {
-                      return (
-                        <div
-                          key={d_index}
-                          className='search_content'
-                          onClick={() => {
-                            setSearchText(d_data);
-                            setSearchFocuStatus(false);
-                            navigate(`/search/${d_data}`);
-                          }}
-                        >
-                          <span>{d_data}</span>
-                          <span className='tag'>document</span>
-                        </div>
-                      );
-                    })}
-                    {/* filtered urls */}
-                    {searchedProducts?.web_titles?.map((w_data, w_index) => {
-                      return (
-                        <div
-                          key={w_index}
-                          className='search_content'
-                          onClick={() => {
-                            setSearchText(w_data);
-                            setSearchFocuStatus(false);
-                            navigate(`/search/${w_data}`);
-                          }}
-                        >
-                          <span className='content_text'>{w_data}</span>
-                          <span className='tag'>web link</span>
-                        </div>
-                      );
-                    })}
-                  </div>
-                ) : (
-                  <>
-                    {/* "no suggestions found" container */}
-                    <div>
-                      {searchText?.length > 0 && (
-                        <h3 className='search_content'>No suggestions found</h3>
-                      )}
-                    </div>
-                  </>
-                )}
-              </div>
               {/* new container */}
               <div className='search_suggestion_container'>
                 {(searchedProducts?.products?.length > 0 ||
-                  searchedProducts?.doc_names?.length > 0 ||
-                  searchedProducts?.web_titles?.length > 0) && (
+                  searchedProducts?.doc_objects?.length > 0 ||
+                  searchedProducts?.web_objects?.length > 0) && (
                   <div className='search_suggestion_contents'>
                     {/* total products */}
                     {searchedProducts?.products?.length > 0 && (
                       <div className='count_container'>
                         <h1 className='product_count'>
-                          <span>{searchedProducts?.products?.length}</span>
                           <span>
                             {searchedProducts?.products?.length > 1
                               ? 'Products'
                               : 'Product'}
                           </span>
+                          <span>
+                            &#40;{searchedProducts?.products?.length}&#41;
+                          </span>
                         </h1>
 
-                        {/* <a href='/'>View more</a> */}
+                        <Link to={'/search/' + searchText}>See All</Link>
                       </div>
                     )}
 
                     {/* product list container */}
                     <div className='product_list_container'>
                       {searchedProducts?.products?.map((p_data, p_index) => {
-                        // if (p_index < 2)
-                        return (
-                          <div
-                            key={p_data?.id}
-                            className='single_product_slab'
-                          >
-                            <div className='product_details_group'>
-                              {/* product image */}
-                              <div className='product_img'>
-                                <img
-                                  src={product_icon}
-                                  alt=''
-                                />
-                              </div>
-                              {/* product details  */}
-                              <div className='product_details_container'>
-                                <h1>{p_data?.productName}</h1>
-                                <p>
-                                  Lorem ipsum dolor sit amet consectetur
-                                  adipisicing elit. Architecto amet totam
-                                  pariatur.
-                                </p>
+                        if (p_index < 2)
+                          return (
+                            <div
+                              key={p_data?.id}
+                              className='single_product_slab'
+                              onClick={() => {
+                                setSearchText(p_data?.displayName);
+                                navigate('/search/' + p_data?.displayName);
+                              }}
+                            >
+                              <div className='product_details_group'>
+                                <div className='product_img'>
+                                  <img
+                                    src={p_data?.blobFileUrl}
+                                    alt={p_data?.productName}
+                                  />
+                                </div>
+                                <div className='product_details_container'>
+                                  <h1>{p_data?.displayName}</h1>
+                                  <p>
+                                    {truncateString(
+                                      p_data?.productShortDesc,
+                                      50
+                                    )}
+                                  </p>
 
-                                <div className='sub_cat_container'>
-                                  <span>BOSCH</span>
-                                  <span>API</span>
-                                  <span>Configure</span>
-                                  <span>React</span>
+                                  {p_data?.productBusinessCategoryMap?.length >
+                                    0 && (
+                                    <div className='sub_cat_container'>
+                                      {p_data?.productBusinessCategoryMap?.map(
+                                        (pb_data, pb_index) => {
+                                          if (pb_index < 3)
+                                            return (
+                                              <span
+                                                key={
+                                                  pb_data?.businessCategoryId
+                                                }
+                                              >
+                                                {
+                                                  pb_data?.businessCategory
+                                                    ?.businessCategoryName
+                                                }
+                                              </span>
+                                            );
+                                        }
+                                      )}
+                                    </div>
+                                  )}
                                 </div>
                               </div>
-                            </div>
 
-                            {/* icon */}
-                            <div className='right_container'>
-                              <img
-                                src=''
-                                alt=''
-                              />
-                            </div>
-                          </div>
-                        );
-                      })}
-                    </div>
-
-                    {/* docs list container */}
-                    <div className='product_list_container'>
-                      {searchedProducts?.doc_names?.map((d_data, d_index) => {
-                        // if (d_index < 2)
-                        return (
-                          <div
-                            key={d_index}
-                            className='single_product_slab'
-                          >
-                            <div className='product_details_group'>
-                              {/* document image */}
-                              <div className='product_img'>
+                              <div className='right_container'>
                                 <img
-                                  src={
-                                    d_data?.split('.')[
-                                      d_data?.split('.')?.length - 1
-                                    ] === 'pdf'
-                                      ? pdf_icon
-                                      : xlxs_icon
-                                  }
-                                  alt=''
+                                  src={link_icon}
+                                  alt='link'
                                 />
                               </div>
-                              {/* doc details  */}
-                              <div className='product_details_container'>
-                                <h1>{d_data}</h1>
-                                <p>
-                                  Lorem, ipsum dolor sit amet consectetur
-                                  adipisicing elit. Aperiam obcaecati velit
-                                  saepe molestiae earum similique libero
-                                  repudiandae temporibus deleniti consectetur a,
-                                  eaque facilis quis voluptatibus
-                                </p>
-                              </div>
                             </div>
-
-                            {/* icon */}
-                            <div className='right_container'>
-                              <img
-                                src=''
-                                alt=''
-                              />
-                            </div>
-                          </div>
-                        );
+                          );
                       })}
                     </div>
+
+                    {/* total urls */}
+                    {searchedProducts?.web_objects?.length > 0 && (
+                      <div className='count_container'>
+                        <h1 className='product_count'>
+                          <span>
+                            {searchedProducts?.web_objects?.length > 1
+                              ? 'Pages'
+                              : 'Page'}
+                          </span>
+                          <span>
+                            &#40;{searchedProducts?.web_objects?.length}&#41;
+                          </span>
+                        </h1>
+
+                        <Link to={'/search/' + searchText}>See All</Link>
+                      </div>
+                    )}
 
                     {/* url list container */}
                     <div className='product_list_container'>
-                      {searchedProducts?.web_titles?.map((w_data, w_index) => {
-                        // if (w_index < 2)
-                        return (
-                          <div
-                            key={w_index}
-                            className='single_product_slab'
-                          >
-                            <div className='product_details_group'>
-                              {/* document image */}
-                              <div className='product_img'>
+                      {searchedProducts?.web_objects?.map((w_data, w_index) => {
+                        if (w_index < 2)
+                          return (
+                            <div
+                              key={w_index}
+                              className='single_product_slab'
+                              onClick={() => {
+                                window.open(w_data?.url);
+                              }}
+                            >
+                              <div className='product_details_group'>
+                                <div className='product_details_container'>
+                                  <h1>{w_data?.title}</h1>
+                                  <p>
+                                    Lorem, ipsum dolor sit amet consectetur
+                                    adipisicing elit. Aperiam obcaecati velit
+                                  </p>
+                                </div>
+                              </div>
+
+                              <div className='right_container'>
                                 <img
-                                  src={earth_icon}
-                                  alt=''
+                                  src={link_icon}
+                                  alt='link'
                                 />
                               </div>
-                              {/* doc details  */}
-                              <div className='product_details_container'>
-                                <h1>{w_data}</h1>
-                                <p>
-                                  Lorem, ipsum dolor sit amet consectetur
-                                  adipisicing elit. Aperiam obcaecati velit
-                                  saepe molestiae earum similique libero
-                                  repudiandae temporibus deleniti consectetur a,
-                                  eaque facilis quis voluptatibus
-                                </p>
+                            </div>
+                          );
+                      })}
+                    </div>
+
+                    {/* total docs */}
+                    {searchedProducts?.doc_names?.length > 0 && (
+                      <div className='count_container'>
+                        <h1 className='product_count'>
+                          <span>
+                            {searchedProducts?.doc_names?.length > 1
+                              ? 'Documents'
+                              : 'Document'}
+                          </span>
+                          <span>
+                            &#40;{searchedProducts?.doc_names?.length}&#41;
+                          </span>
+                        </h1>
+
+                        <Link to={'/search/' + searchText}>See All</Link>
+                      </div>
+                    )}
+
+                    {/* docs list container */}
+                    <div className='product_list_container'>
+                      {searchedProducts?.doc_objects?.map((d_data, d_index) => {
+                        if (d_index < 2)
+                          return (
+                            <div
+                              key={d_index}
+                              className='single_product_slab'
+                              onClick={() => {
+                                window.open(d_data?.doc_url);
+                              }}
+                            >
+                              <div className='product_details_group'>
+                                <div className='file_icon_container'>
+                                  <img
+                                    src={fileDownloadIcon}
+                                    alt='file download'
+                                  />
+                                </div>
+                                <div className='product_details_container'>
+                                  <h1 className='doc_name'>
+                                    {d_data?.doc_name}
+                                  </h1>
+                                </div>
                               </div>
                             </div>
-
-                            {/* icon */}
-                            <div className='right_container'>
-                              <img
-                                src=''
-                                alt=''
-                              />
-                            </div>
-                          </div>
-                        );
+                          );
                       })}
                     </div>
                   </div>

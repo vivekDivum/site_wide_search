@@ -17,7 +17,7 @@
 }
 
 .search_results {
-  background-color: #eff1f2;
+  background-color: #ffffff;
   padding-bottom: 50px;
 }
 
@@ -33,22 +33,17 @@
     .view_all_btn {
       padding: 10px 20px;
       letter-spacing: 1px;
-      background-color: #007bc0;
-      color: white;
+      color: #007ac0;
+      background-color: transparent;
       outline: none;
       border: none;
       transition: all 0.3s;
       cursor: pointer;
-      &:hover {
-        background-color: #035a8c;
-      }
-      &:active {
-        transform: scale(0.95);
-      }
     }
     .section_heading {
-      font-size: 30px;
+      font-size: 36px;
       font-weight: 600;
+      color: #363636;
     }
   }
 }
@@ -71,6 +66,7 @@
     // display: none;
     width: 100%;
     background-color: white;
+    border: 1px solid #d0d0d0;
     // aspect-ratio: 1;
     position: relative;
     transition: all 0.2s;
@@ -82,7 +78,7 @@
     .product_card_header {
       height: 50px;
 
-      border-bottom: 1px solid #c9c7c7;
+      border-bottom: 1px solid #d0d0d0;
     }
 
     .product_card_img_container {
@@ -96,7 +92,7 @@
         width: 100%;
         border-radius: 100%;
         aspect-ratio: 1;
-        border: 1px solid #c9c7c7;
+        border: 1px solid #d0d0d0;
         object-fit: cover;
       }
     }
@@ -104,22 +100,24 @@
       margin-top: 15px;
       padding: 30px;
 
+      h2 {
+        color: #a5a5a5;
+        margin-bottom: 8px;
+        font-size: 18px;
+      }
+
       h1 {
         font-weight: 600;
-        letter-spacing: 0.3px;
-        font-size: 20px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        height: 40px;
-        width: 250px;
+        font-size: 24px;
+        word-wrap: break-word;
+        height: 60px;
       }
 
       p {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 400;
         font-family: boschsans, sans-serif;
-        color: #4c4c4c;
+        color: #000000;
         margin-bottom: 10px;
         line-height: 20px;
         overflow: hidden;
@@ -128,7 +126,7 @@
       }
 
       .category_container {
-        height: 50px;
+        height: 60px;
         margin-top: 10px;
 
         div {
@@ -137,20 +135,30 @@
           gap: 10px;
 
           div {
-            border: 1px solid #c5c5c5;
-            color: #4c4c4c;
+            border: 1px solid #eae8e8;
             padding: 3px 5px;
-            font-size: 13px;
+            font-size: 12px;
             letter-spacing: 0.5px;
           }
+        }
+      }
+
+      .updated_date_container {
+        color: #a5a5a5;
+        .updated_text {
+          font-size: 12px;
+          margin-right: 5px;
+        }
+        .updated_date {
+          font-size: 14px;
         }
       }
     }
 
     .go_to_btn {
       position: absolute;
-      bottom: 10px;
-      right: 10px;
+      bottom: 20px;
+      right: 20px;
       width: 35px;
       border-radius: 100%;
       border: 1px solid #035a8c;
@@ -189,6 +197,7 @@
     transition: all 0.3s ease-in-out;
     text-decoration: none;
     margin-bottom: 20px;
+    border: 1px solid #d0d0d0;
 
     &:hover {
       filter: drop-shadow(0px 50px 20px #1e1e1e0f);
@@ -196,27 +205,19 @@
 
     .web_urls {
       font-weight: 600;
-      font-size: 20px;
+      font-size: 24px;
       display: block;
 
       text-transform: capitalize;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      height: 40px;
-      width: 250px;
-    }
 
-    .link_desc {
-      color: #4c4c4c;
-      font-size: 14px;
-      letter-spacing: 0.2px;
+      height: 70px;
+      width: 250px;
     }
 
     .link_icon_container {
       margin-top: 20px;
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       align-items: center;
       span {
         width: 100%;
@@ -252,44 +253,26 @@
 }
 
 .doc_container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  align-items: center;
-  justify-items: center;
-  gap: 50px;
-
   .document_card {
     cursor: pointer;
-    padding: 20px;
-    padding-bottom: 0;
     background-color: white;
     width: 100%;
-    transition: all 0.2s;
-
-    &:hover {
-      filter: drop-shadow(0px 50px 20px #1e1e1e0f);
-    }
+    margin-bottom: 10px;
+    margin-left: -5px;
 
     .doc_links {
       display: flex;
       align-items: center;
-      gap: 20px;
+      gap: 10px;
       text-decoration: none;
-      margin-bottom: 20px;
 
       span {
-        font-weight: 600;
-        font-size: 20px;
+        font-weight: 400;
+        font-size: 24px;
+        color: #007ac0;
 
         img {
-          width: 60px;
-        }
-
-        p {
-          color: #4c4c4c;
-          margin-top: 10px;
-          font-size: 14px;
-          letter-spacing: 0.2px;
+          width: 40px;
         }
       }
     }

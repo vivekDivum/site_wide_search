@@ -15,6 +15,9 @@ import pdf_icon from '../assets/pdf_icon.svg';
 import xlxs_icon from '../assets/xlxs_icon.svg';
 import earth_icon from '../assets/earth_icon.png';
 import product_icon from '../assets/product_icon.png';
+import file_download from '../assets/file_download_icon.svg';
+import '../styles/SearchedResults.scss';
+import truncateString from '../helpers/truncateText';
 
 const SearchResults = () => {
   // local variables
@@ -35,11 +38,12 @@ const SearchResults = () => {
     if (params?.search_term) {
       setLoadingStatus(true);
       setSearchFocuStatus(false);
+
       // setSearchResponse(search_data);
       // setLoadingStatus(false);
 
       axios
-        .post('http://localhost:5000/search', {
+        .post('http://192.168.0.137:5000/search', {
           query: params?.search_term === 'none' ? '' : params?.search_term
         })
         .then(function (response) {
@@ -76,17 +80,17 @@ const SearchResults = () => {
 
       <SearchContainer />
 
-      <NavBar />
+      {/* <NavBar /> */}
 
       {/* body */}
       <div className='search_results'>
         {/* banner */}
-        <div className='banner_container'>
+        {/* <div className='banner_container'>
           <img
             src={banner}
             alt='banner'
           />
-        </div>
+        </div> */}
 
         {/* conditionally rendering main content or no results  */}
 
@@ -108,16 +112,19 @@ const SearchResults = () => {
           ) : (
             <div>
               {/* products */}
-              {searchResponse?.products?.products?.length > 0 && (
+              {searchResponse?.products?.length > 0 && (
                 <section className='response_content_wrapper'>
                   <div className='section_header'>
                     <h1 className='section_heading'>
                       Products &#40;
-                      {searchResponse?.products?.products?.length}
+                      {searchResponse?.products?.length}{' '}
+                      {searchResponse?.products?.length > 1
+                        ? 'Results'
+                        : 'Result'}
                       &#41;
                     </h1>
 
-                    {searchResponse?.products?.products?.length > 4 &&
+                    {searchResponse?.products?.length > 4 &&
                     !viewAllData?.products ? (
                       <button
                         onClick={() =>
@@ -132,7 +139,7 @@ const SearchResults = () => {
                       </button>
                     ) : (
                       <>
-                        {searchResponse?.products?.products?.length > 4 && (
+                        {searchResponse?.products?.length > 4 && (
                           <button
                             className='view_all_btn'
                             onClick={() =>
@@ -150,95 +157,105 @@ const SearchResults = () => {
                   </div>
 
                   <div className='product_container'>
-                    {searchResponse?.products?.products?.map(
-                      (all_products, index) => {
-                        if (
-                          index <=
-                          (viewAllData?.products
-                            ? searchResponse?.products?.products?.length
-                            : 3)
-                        )
-                          return (
-                            <>
-                              {/* new card */}
-                              <div className='single_product_card'>
-                                {/* card header container */}
-                                <div className='product_card_header'>
-                                  {/* image container */}
-                                  <div className='product_card_img_container'>
-                                    {/* image with negative margin bottom */}
-                                    <img
-                                      src={
-                                        searchResponse?.products?.documents[
-                                          index
-                                        ]?.blobFileUrl
-                                      }
-                                      alt='links'
-                                    />
-                                    {/* 
+                    {searchResponse?.products?.map((all_products, index) => {
+                      if (
+                        index <=
+                        (viewAllData?.products
+                          ? searchResponse?.products?.length
+                          : 3)
+                      )
+                        return (
+                          <>
+                            {/* new card */}
+                            <div className='single_product_card'>
+                              {/* card header container */}
+                              <div className='product_card_header'>
+                                {/* image container */}
+                                <div className='product_card_img_container'>
+                                  {/* image with negative margin bottom */}
+                                  <img
+                                    src={all_products?.blobFileUrl}
+                                    alt='links'
+                                  />
+                                  {/* 
                                     <img
                                       src={product_icon}
                                       alt='links'
                                     /> */}
-                                  </div>
                                 </div>
-
-                                {/* card body container */}
-                                <div className='product_card_body_container'>
-                                  {/* heading */}
-                                  <h1>{all_products?.displayName}</h1>
-                                  {/* description */}
-                                  <p>
-                                    {' '}
-                                    {all_products?.productShortDesc?.length >
-                                    100
-                                      ? all_products?.productShortDesc?.substring(
-                                          0,
-                                          100
-                                        ) + '...'
-                                      : all_products?.productShortDesc}
-                                  </p>
-
-                                  {/* category container */}
-                                  <div className='category_container'>
-                                    <div>
-                                      {all_products?.productBusinessCategoryMap?.map(
-                                        (c_data, c_index) => {
-                                          if (c_index < 3)
-                                            return (
-                                              <div
-                                                key={
-                                                  c_data?.businessCategory
-                                                    ?.businessCategoryId
-                                                }
-                                              >
-                                                {
-                                                  c_data?.businessCategory
-                                                    ?.businessCategoryName
-                                                }
-                                              </div>
-                                            );
-                                        }
-                                      )}
-                                    </div>
-                                  </div>
-                                </div>
-
-                                {/* fixed or absolute positioned arrow  */}
-                                <button
-                                  className='go_to_btn'
-                                  title='View more'
-                                >
-                                  <img
-                                    src={right_arrow}
-                                    alt='go to btn'
-                                  />
-                                </button>
                               </div>
-                            </>
-                          );
-                      }
-                    )}
+
+                              {/* card body container */}
+                              <div className='product_card_body_container'>
+                                {/* sub_text */}
+                                <h2>BGSW</h2>
+                                {/* heading */}
+                                <h1>
+                                  {truncateString(
+                                    all_products?.displayName,
+                                    30
+                                  )}
+                                </h1>
+                                {/* description */}
+                                <p>
+                                  {' '}
+                                  {all_products?.productShortDesc?.length > 100
+                                    ? all_products?.productShortDesc?.substring(
+                                        0,
+                                        100
+                                      ) + '...'
+                                    : all_products?.productShortDesc}
+                                </p>
+
+                                {/* category container */}
+                                <div className='category_container'>
+                                  <div>
+                                    {all_products?.productBusinessCategoryMap?.map(
+                                      (c_data, c_index) => {
+                                        if (c_index < 3)
+                                          return (
+                                            <div
+                                              key={
+                                                c_data?.businessCategory
+                                                  ?.businessCategoryId
+                                              }
+                                            >
+                                              {
+                                                c_data?.businessCategory
+                                                  ?.businessCategoryName
+                                              }
+                                            </div>
+                                          );
+                                      }
+                                    )}
+                                  </div>
+                                </div>
+
+                                {/* updated date */}
+                                <div className='updated_date_container'>
+                                  <span className='updated_text'>
+                                    Updated as on
+                                  </span>
+                                  <span className='updated_date'>
+                                    12/03/2023
+                                  </span>
+                                </div>
+                              </div>
+
+                              {/* fixed or absolute positioned arrow  */}
+                              <button
+                                className='go_to_btn'
+                                title='View more'
+                              >
+                                <img
+                                  src={right_arrow}
+                                  alt='go to btn'
+                                />
+                              </button>
+                            </div>
+                          </>
+                        );
+                    })}
                   </div>
                 </section>
               )}
@@ -248,7 +265,10 @@ const SearchResults = () => {
                 <section className='response_content_wrapper'>
                   <div className='section_header'>
                     <h1 className='section_heading'>
-                      Other Useful Links &#40;{searchResponse?.web_url?.length}
+                      Pages &#40;{searchResponse?.web_url?.length}{' '}
+                      {searchResponse?.web_url?.length > 1
+                        ? 'Results'
+                        : 'Result'}
                       &#41;
                     </h1>
 
@@ -300,7 +320,7 @@ const SearchResults = () => {
                               className='web_urls'
                               title={all_urls?.title}
                             >
-                              {all_urls?.title}
+                              {truncateString(all_urls?.title, 30)}
                             </span>
 
                             <p className='link_desc'>
@@ -310,12 +330,12 @@ const SearchResults = () => {
                             </p>
 
                             <div className='link_icon_container'>
-                              <span>
+                              {/* <span>
                                 <img
                                   src={earth_icon}
                                   alt=''
                                 />
-                              </span>
+                              </span> */}
 
                               <a
                                 href={all_urls?.url}
@@ -341,7 +361,10 @@ const SearchResults = () => {
                 <section className='response_content_wrapper'>
                   <div className='section_header'>
                     <h1 className='section_heading'>
-                      Documents &#40;{searchResponse?.doc_url?.length}
+                      Documents &#40;{searchResponse?.doc_url?.length}{' '}
+                      {searchResponse?.doc_url?.length > 1
+                        ? 'Results'
+                        : 'Result'}
                       &#41;
                     </h1>
 
@@ -396,7 +419,7 @@ const SearchResults = () => {
                           >
                             <div className='doc_links'>
                               <span>
-                                <img
+                                {/* <img
                                   src={
                                     all_documents?.doc_name?.split('.')[
                                       all_documents?.doc_name?.split('.')
@@ -406,21 +429,15 @@ const SearchResults = () => {
                                       : xlxs_icon
                                   }
                                   alt={all_documents?.doc_name}
+                                /> */}
+
+                                <img
+                                  src={file_download}
+                                  alt='file download'
                                 />
                               </span>
                               <span>
-                                <span>
-                                  {all_documents?.doc_name?.length > 30
-                                    ? all_documents?.doc_name?.substring(
-                                        0,
-                                        30
-                                      ) + '...'
-                                    : all_documents?.doc_name}
-                                </span>
-                                <p>
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipisicing elit...
-                                </p>
+                                <span>{all_documents?.doc_name}</span>
                               </span>
                             </div>
                           </div>
