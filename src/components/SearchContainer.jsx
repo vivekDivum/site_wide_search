@@ -6,35 +6,38 @@ import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
 // import search_data from '../mock_data/search_data_2.json';
 import product_data from '../mock_data/suggestion_data.json';
-import product_icon from '../assets/product_icon.png';
-import pdf_icon from '../assets/pdf_icon.svg';
-import xlxs_icon from '../assets/xlxs_icon.svg';
-import earth_icon from '../assets/earth_icon.png';
+// import product_icon from '../assets/product_icon.png';
+// import pdf_icon from '../assets/pdf_icon.svg';
+// import xlxs_icon from '../assets/xlxs_icon.svg';
+// import earth_icon from '../assets/earth_icon.png';
 import link_icon from '../assets/link.svg';
 import fileDownloadIcon from '../assets/file_download_icon.svg';
 import truncateString from '../helpers/truncateText';
+import { SearchFocusAtom } from '../state_management/SearchFocusAtom';
+import { useRecoilState } from 'recoil';
+import { SearchTextAtom } from '../state_management/SearchTextAtom';
 
 const SearchContainer = () => {
+  //  global variables
+  const [searchFocusStatus, setSearchFocuStatus] =
+    useRecoilState(SearchFocusAtom);
   // local variables
-  //   const [apiData, setApiData] = useState(product_data);
-  const [searchFocusStatus, setSearchFocuStatus] = useState(false);
   const [searchedProducts, setSearchedProducts] = useState();
-  const [searchText, setSearchText] = useState('');
+  const [searchText, setSearchText] = useRecoilState(SearchTextAtom);
   const [apiData, setApiData] = useState();
   const searchRef = useRef(null);
   const navigate = useNavigate();
 
   //   fetching suggestions on component mount
   useEffect(() => {
-    axios.get('http://192.168.0.137:5000/get-suggestions')?.then((res) => {
-      setApiData(res?.data);
-      console.log(res?.data);
-    });
-    return () => {
-      setApiData();
-    };
+    // axios.get('http://192.168.0.137:5000/get-suggestions')?.then((res) => {
+    //   setApiData(res?.data);
+    // });
+    // return () => {
+    //   setApiData();
+    // };
 
-    // setApiData(product_data);
+    setApiData(product_data);
   }, []);
 
   // handle click outside the suggestion dropdown
@@ -100,7 +103,7 @@ const SearchContainer = () => {
   }, [searchText]);
 
   useEffect(() => {
-    console.log('searchedProducts:', searchedProducts);
+    console.log('searchedProducts from search:', searchedProducts);
   }, [searchedProducts]);
 
   return (

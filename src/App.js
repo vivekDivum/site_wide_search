@@ -8,6 +8,7 @@ function App() {
       {/*bosch strip */}
       <div className='bosch_strip'></div>
 
+      {/* routes */}
       <Routes>
         <Route
           path='/'

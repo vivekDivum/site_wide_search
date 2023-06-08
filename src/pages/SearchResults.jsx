@@ -18,13 +18,16 @@ import product_icon from '../assets/product_icon.png';
 import file_download from '../assets/file_download_icon.svg';
 import '../styles/SearchedResults.scss';
 import truncateString from '../helpers/truncateText';
+import { SearchFocusAtom } from '../state_management/SearchFocusAtom';
+import { useRecoilState } from 'recoil';
 
 const SearchResults = () => {
   // local variables
   const params = useParams();
   const [searchResponse, setSearchResponse] = useState();
   const [loadingStatus, setLoadingStatus] = useState(false);
-  const [, setSearchFocuStatus] = useState(false);
+  const [searchFocusStatus, setSearchFocuStatus] =
+    useRecoilState(SearchFocusAtom);
   const [viewAllData, setViewAllData] = useState({
     products: false,
     links: false,
@@ -39,32 +42,36 @@ const SearchResults = () => {
       setLoadingStatus(true);
       setSearchFocuStatus(false);
 
-      // setSearchResponse(search_data);
-      // setLoadingStatus(false);
+      setSearchResponse(search_data);
+      setLoadingStatus(false);
 
-      axios
-        .post('http://192.168.0.137:5000/search', {
-          query: params?.search_term === 'none' ? '' : params?.search_term
-        })
-        .then(function (response) {
-          console.log(response);
-          setSearchResponse(response?.data);
-          setLoadingStatus(false);
-          setViewAllData({
-            products: false,
-            links: false,
-            docs: false
-          });
-        })
-        .catch(function (error) {
-          alert(error);
-        });
+      // axios
+      //   .post('http://192.168.0.137:5000/search', {
+      //     query: params?.search_term === 'none' ? '' : params?.search_term
+      //   })
+      //   .then(function (response) {
+      //     console.log(response);
+      //     setSearchResponse(response?.data);
+      //     setLoadingStatus(false);
+      //     setViewAllData({
+      //       products: false,
+      //       links: false,
+      //       docs: false
+      //     });
+      //   })
+      //   .catch(function (error) {
+      //     alert(error);
+      //   });
     }
 
     return () => {
       setSearchResponse(null);
     };
   }, [params]);
+
+  useEffect(() => {
+    console.log('searchFocusStatus:', searchFocusStatus);
+  }, [searchFocusStatus]);
 
   return (
     <div>
